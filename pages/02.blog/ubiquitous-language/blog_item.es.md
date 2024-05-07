@@ -22,6 +22,7 @@ media_order: 'featured.jpg,ddd-lenguaje-ubicuo-01.png,ddd-lenguaje-ubicuo-02.png
 metadata:
     description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
     keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
+slug: lenguaje-ubicuo
 ---
 
 Una de las primeras cosas que se oye cuando se habla de DDD es el termino "_Lenguaje Ubicuo_". Es la base de todo en DDD, usando este lenguaje podremos definir todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos facilitará la tarea de modelar correctamente el dominio de nuestra solución.
