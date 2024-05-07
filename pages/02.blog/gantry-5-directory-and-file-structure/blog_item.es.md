@@ -22,6 +22,7 @@ image:
         enabled: '1'
 date: '24-12-2018 00:00'
 publish_date: '26-12-2018 00:00'
+slug: gantry-5-estructura-de-directorios-y-archivos
 ---
 
 En el artículo anterior [Introducción a Gantry 5: Instalación y Configuración](/blog/introduction-to-gantry-5-installation-and-configuration) vimos como instalar y configurar Gantry de una manera muy básica, además conocimos los conceptos básicos de este framework de desarrollo de plantillas así como su zona de administración.
