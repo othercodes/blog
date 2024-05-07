@@ -16,5 +16,6 @@ twitterenable: true
 twittercardoptions: summary
 articleenabled: false
 facebookenable: true
+slug: projectos
 ---
 
