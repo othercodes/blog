@@ -23,6 +23,7 @@ metadata:
     keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
 date: '08-12-2018 00:00'
 publish_date: '08-12-2018 00:00'
+slug: instalacion-php-56-70-71-72-centos-rhel-7
 ---
 
 La instalación de las últimas versiones de PHP en CentOS/RHEL puede no ser tan fácil como parece ya que hay que realizar ciertos pasos previos. Además, cada una de estas versiones tiene un directorio de instalación algo peculiar. En este artículo cubriremos todos los pasos para las instalación y uso de las versiones de PHP 5.6, 7.0, 7.1 y 7.2.
