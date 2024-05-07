@@ -22,6 +22,7 @@ metadata:
     keywords: 'Instalación, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
 date: '26-12-2018 00:00'
 publish_date: '31-12-2018 00:00'
+slug: instalación-php-73-74-80-ubuntu
 ---
 
 PHP es uno de los lenguajes de programación web mas extendidos en Internet. Actualmente hay tres versiones en [soporte activo](http://php.net/supported-versions.php), 7.1, 7.2, 7.3 y 7.4 que fue lanzada el 28 de Noviembre de 2019. Es recomendable siempre usar la versión estable más nueva, en este caso es la 7.4, sin embargo, podemos instalarnos cualquiera de estas tres versiones en nuestro sistema.
