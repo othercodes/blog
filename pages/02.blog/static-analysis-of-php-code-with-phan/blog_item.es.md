@@ -24,7 +24,9 @@ metadata:
     description: 'Instalación y uso de la herramienta de análisis estático de código Phan. Anticipate a cualquier incidencia instalando Phan y analizando tu código.'
     keywords: 'phan, análisis estático, php7, análisis de código estático, incidencias php'
 slug: analisis-estático-de-codigo-php-con-phan
-routes: {  }
+routes:
+    aliases:
+        - /blog/analisis-estático-de-codigo-php-con-phan
 ---
 
 [Phan](https://github.com/phan/phan) es un analizador estático de código que nos permite evaluar el código sin ejecutarlo, identificando potenciales problemas en etapas tempranas del ciclo de vida del software. Esto nos proporciona importantes ahorros de costes, ya que nos anticipamos a posibles problemas antes de que estos se hagan realidad.
