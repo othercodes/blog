@@ -6,5 +6,6 @@ twittercardoptions: summary
 articleenabled: false
 facebookenable: true
 routes: {  }
+slug: inicio
 ---
 
