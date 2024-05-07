@@ -23,6 +23,7 @@ metadata:
 media_order: featured.jpg
 date: '14-12-2019 10:00'
 publish_date: '14-12-2019 10:00'
+slug: configurando-apache-con-php-fpm-en-ubuntu
 ---
 
 Como ya comente en el articulo [Configurando Apache con PHP-FPM en CentOS/RHEL 7](/blog/configurando-apache-con-php-fpm-en-centos-rhel-7), PHP-FPM es una manera mucho mas eficiente de manejar grandes volúmenes de consultas. En este articulo veremos como configurarlo en Ubuntu.
