@@ -9,7 +9,7 @@ content:
     order:
         by: date
         dir: desc
-    show_date: false
+    show_date: true
     pagination: true
     url_taxonomy_filters: true
 ---
