@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Proyectos
 content:
     items:
         - '@self.children'
@@ -12,5 +12,6 @@ content:
     show_date: true
     pagination: true
     url_taxonomy_filters: true
+slug: proyectos
 ---
 
