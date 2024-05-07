@@ -5,5 +5,8 @@ twitterenable: true
 twittercardoptions: summary
 articleenabled: false
 facebookenable: true
+routes:
+    aliases:
+        - /inicio
 ---
 
