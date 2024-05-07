@@ -22,6 +22,7 @@ publish_date: '07-01-2019 12:29'
 metadata:
     description: 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
     keywords: 'phan, static analysis, php7, static code analysis, php issues'
+slug: analisis-estático-de-codigo-php-con-phan
 ---
 
 [Phan](https://github.com/phan/phan) is a static code analyzer that allows us to evaluate the code without executing it, identifying potential problems in early stages of the software life cycle. This provides us with significant cost savings, as we anticipate potential problems before they become reality.
