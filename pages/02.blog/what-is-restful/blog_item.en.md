@@ -22,6 +22,7 @@ metadata:
     keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
 date: '16-12-2019 17:53'
 publish_date: '16-12-2019 17:53'
+slug: que-es-restful
 ---
 
 REST or Representational State Transfer is a type of architecture for hypermedia systems. This term was coined by [Roy Fielding](https://twitter.com/fielding) in his [doctoral thesis on the web](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) in 2000. Although the term REST originally refers to the architecture itself, it is currently used to describe any interface that uses HTTP to obtain data or initiate the execution of operations on data.
