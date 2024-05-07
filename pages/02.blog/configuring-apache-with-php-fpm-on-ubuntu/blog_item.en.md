@@ -22,7 +22,6 @@ metadata:
     keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, installation and configuration'
 date: '14-12-2019 10:00'
 publish_date: '14-12-2019 10:00'
-slug: configurando-apache-con-php-fpm-en-ubuntu
 ---
 
 As I already mentioned in the article [Configuring Apache with PHP-FPM in CentOS/RHEL 7](/blog/configuring-apache-with-php-fpm-on-centos-rhel-7), PHP-FPM is a much more efficient to handle large volumes of queries. In this article we will see how to configure it in Ubuntu.
