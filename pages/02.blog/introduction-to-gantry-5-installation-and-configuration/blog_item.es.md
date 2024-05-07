@@ -22,6 +22,7 @@ publish_date: '20-08-2013 21:23'
 metadata:
     description: 'Introducción a Gantry 5, instalación, configuración y personalización de plantillas.'
     keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
+slug: introducción-a-gantry-5-instalación-y-configuración
 ---
 
 Gantry? Qué es Gantry? Bien, Gantry es un framework de desarrollo de plantillas para Joomla y Wordpress. Este framework nos ayuda a desarrollar y manipular muy rápidamente el diseño de nuestro sitio web. Gantry está desarrollado por RocketTheme y actualmente se encuentra en su versión 5.4.24.
