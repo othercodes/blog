@@ -49,7 +49,9 @@ form:
             body: '{% include ''forms/data.html.twig'' %}'
         display: thankyou
         message: 'Gracias por ponerse en contacto!'
-routes: {  }
+routes:
+    aliases:
+        - /contacto
 slug: contacto
 ---
 
