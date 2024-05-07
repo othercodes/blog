@@ -21,6 +21,7 @@ metadata:
     keywords: 'rest, arquitectura rest, restircciones, recursos, recurso, metodos, codigo de estado'
 date: '16-12-2019 17:53'
 publish_date: '16-12-2019 17:53'
+slug: que-es-restful
 ---
 
 REST o Transferencia de estado representacional es un tipo de arquitectura para sistemas hipermedia. Este término fue acuñado por [Roy Fielding](https://twitter.com/fielding) en su [tesis doctoral sobre la web](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) en el año 2000. Aunque el término REST se refiere originalmente a la arquitectura en sí, actualmente es utilizado para describir cualquier interfaz que utiliza HTTP para obtener datos o iniciar la ejecución de operaciones sobre datos.
