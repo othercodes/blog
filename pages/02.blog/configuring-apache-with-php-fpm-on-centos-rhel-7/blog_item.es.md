@@ -24,6 +24,7 @@ publish_date: '25-11-2019 12:37'
 metadata:
     description: 'Instalación y configuración de PHP-FPM con Apache2 sobre CentOS/RHEL7.'
     keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, instalación y configuración'
+slug: configurando-apache-con-php-fpm-en-centos-rhel-7
 ---
 
 PHP-FPM, o PHP FastCGI Process Manager, es una implementación alternativa de PHP FastCGI que puede manejar un gran volumen de consultas. Combinado con PHP 7, PHP-FPM logra un nivel de rendimiento más alto que cualquier versión anterior de PHP.
