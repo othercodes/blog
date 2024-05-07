@@ -50,5 +50,6 @@ form:
         display: thankyou
         message: 'Gracias por ponerse en contacto!'
 routes: {  }
+slug: contacto
 ---
 
