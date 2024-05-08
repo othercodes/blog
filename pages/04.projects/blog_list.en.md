@@ -12,5 +12,6 @@ content:
     show_date: true
     pagination: true
     url_taxonomy_filters: true
+visible: false
 ---
 
