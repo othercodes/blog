@@ -1,8 +1,8 @@
 ---
 title: 'Política de Cookies'
 metadata:
-    description: ''
-    keywords: ''
+    description: 'Politica de Cookies para el Blog otherCode'
+    keywords: 'politica de cookies, politica, cookies'
 slug: política-de-cookies
 ---
 
