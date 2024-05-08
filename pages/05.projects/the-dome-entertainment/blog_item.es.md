@@ -8,5 +8,10 @@ image:
 metadata:
     description: ''
     keywords: ''
+taxonomy:
+    category:
+        - proyectos
+    tag:
+        - 'sitio web'
 ---
 
