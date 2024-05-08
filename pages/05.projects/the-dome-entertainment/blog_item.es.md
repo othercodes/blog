@@ -18,3 +18,5 @@ taxonomy:
 ---
 
 Sitio web para The Dome Entretaiment desarrollado en Wordpress.
+
+![thedome.es-full](thedome.es-full.webp "thedome.es-full")
