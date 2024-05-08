@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Buscar
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
