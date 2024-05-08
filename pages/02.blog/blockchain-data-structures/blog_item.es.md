@@ -37,6 +37,7 @@ twittercardoptions: summary
 articleenabled: false
 facebookenable: true
 date: '29-03-2020 00:00'
+slug: estructura-de-datos-blockchain
 ---
 
 Cuando escuchamos la palabra _blockchain_, automáticamente pensamos en Bitcoin o en Cryptomonedas, sin embargo _blockchain_ o cadena de bloques es, ni mas ni menos, un tipo de **estructura de datos**.
