@@ -6,14 +6,14 @@ image:
     text:
         enabled: '1'
 metadata:
-    description: ''
-    keywords: ''
+    description: 'Sitio web para The Dome Entretaiment desarrollado en Wordpress.'
+    keywords: 'diseño web, gantry 5, sitio web, cms, wordpress'
 taxonomy:
     category:
         - proyectos
     tag:
-        - 'sitio web'
         - 'diseño web'
         - 'gantry 5'
+        - 'sitio web'
 ---
 
