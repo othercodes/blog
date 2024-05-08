@@ -18,7 +18,7 @@ taxonomy:
 media_order: 'okaoki.webp,okaoki.com-full.webp'
 ---
 
-Sitio web para Oscar Dominguez desarrollado en Wordpress.
+Sitio web para Oscar Dominguez desarrollado en Joomla 3.
 
 ===
 
