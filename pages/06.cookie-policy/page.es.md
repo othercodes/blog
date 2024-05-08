@@ -4,6 +4,9 @@ metadata:
     description: 'Politica de Cookies para el Blog otherCode'
     keywords: 'politica de cookies, politica, cookies'
 slug: política-de-cookies
+taxonomy:
+    category:
+        - legal
 ---
 
 Este sitio web, otherCode, utiliza cookies para mejorar la experiencia del usuario y proporcionar funcionalidades adicionales. En esta página, explicamos qué son las cookies, cómo las utilizamos y cómo puedes controlarlas.
