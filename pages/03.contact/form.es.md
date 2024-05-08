@@ -52,6 +52,5 @@ form:
 routes:
     aliases:
         - /contacto
-slug: contacto
 ---
 
