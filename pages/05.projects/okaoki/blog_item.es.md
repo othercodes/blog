@@ -7,7 +7,7 @@ image:
         enabled: '1'
 metadata:
     description: 'Explora el sitio web de Oscar Domínguez, creado con Joomla 3, y sumérgete en un mundo de ilustraciones de libros, portadas, diseño y cómics. Descubre su talento artístico en una plataforma diseñada para una experiencia óptima.'
-    keywords: 'desarrollo web, gantry 5, joomla, sitio web personal'
+    keywords: 'desarrollo web, gantry 5, joomla, cms, sitio web personal'
 taxonomy:
     category:
         - proyectos
