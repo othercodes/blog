@@ -15,5 +15,6 @@ taxonomy:
         - 'diseño web'
         - 'gantry 5'
         - 'sitio web'
+media_order: 'okaoki.webp,okaoki.com-full.webp'
 ---
 
