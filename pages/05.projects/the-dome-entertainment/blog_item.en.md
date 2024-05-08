@@ -6,15 +6,15 @@ image:
     text:
         enabled: '1'
 metadata:
-    description: ''
-    keywords: ''
+    description: 'Website for The Dome Entertainment developed in Wordpress.'
+    keywords: 'website, web development, web design, gantry 5, cms, wordpress'
 taxonomy:
     category:
         - projects
     tag:
-        - website
         - 'web design'
         - 'gantry 5'
+        - website
 media_order: 'the-dome.webp,thedome.es-full.webp'
 ---
 
