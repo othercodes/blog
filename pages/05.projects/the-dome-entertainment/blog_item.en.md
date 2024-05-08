@@ -13,6 +13,6 @@ taxonomy:
         - projects
     tag:
         - website
-media_order: thedome.es-full.webp
+media_order: 'the-dome.webp,thedome.es-full.webp'
 ---
 
