@@ -5,5 +5,7 @@ image:
         enabled: '1'
     text:
         enabled: '1'
+metadata:
+    description: ''
 ---
 
