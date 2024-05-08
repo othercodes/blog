@@ -8,5 +8,10 @@ image:
 metadata:
     description: ''
     keywords: ''
+taxonomy:
+    category:
+        - projects
+    tag:
+        - website
 ---
 
