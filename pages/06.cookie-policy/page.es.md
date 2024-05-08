@@ -1,4 +1,4 @@
 ---
-title: 'Cookie Policy'
+title: 'Política de Cookies'
 ---
 
