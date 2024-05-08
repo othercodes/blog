@@ -13,6 +13,8 @@ taxonomy:
         - projects
     tag:
         - website
+        - 'web design'
+        - 'gantry 5'
 media_order: 'the-dome.webp,thedome.es-full.webp'
 ---
 
