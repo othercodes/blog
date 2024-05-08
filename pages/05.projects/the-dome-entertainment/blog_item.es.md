@@ -17,3 +17,4 @@ taxonomy:
         - 'sitio web'
 ---
 
+Sitio web para The Dome Entretaiment desarrollado en Wordpress.
