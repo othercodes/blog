@@ -7,5 +7,6 @@ image:
         enabled: '1'
 metadata:
     description: ''
+    keywords: ''
 ---
 
