@@ -7,14 +7,14 @@ image:
     text:
         enabled: '1'
 metadata:
-    description: ''
-    keywords: ''
+    description: 'Explore Oscar Domínguez''s website, built with Joomla 3, and immerse yourself in a world of book illustrations, covers, design, and comics. Discover his artistic talent on a platform designed for an optimal experience.'
+    keywords: 'web development, gantry 5, joomla 3, cms'
 taxonomy:
     category:
         - projects
     tag:
-        - website
         - 'web design'
         - 'gantry 5'
+        - website
 ---
 
