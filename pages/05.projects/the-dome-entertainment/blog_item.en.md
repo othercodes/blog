@@ -18,3 +18,4 @@ taxonomy:
 media_order: 'the-dome.webp,thedome.es-full.webp'
 ---
 
+Website for The Dome Entertainment developed in Wordpress.
