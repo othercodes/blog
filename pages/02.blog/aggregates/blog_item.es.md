@@ -22,9 +22,7 @@ image:
     text:
         enabled: '1'
 slug: agregados
-routes:
-    aliases:
-        - domain-driven-design-agregados
+routes: {  }
 ---
 
 Modelar nuestros programas usando DDD (Domain-Driven Design) nos ayuda a trasladar la terminología, conceptos e ideas del dominio de nuestro negocio al software que estamos desarrollando. Los Agregados y las Entidades son elementos básicos a la hora de aplicar DDD. Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.
