@@ -1,5 +1,8 @@
 ---
 title: 'Cookie Policy'
+metadata:
+    description: 'Cookie policy for the otherCode Blog '
+    keywords: 'cookie policy, cookie, policy'
 ---
 
 This website, otherCode, uses cookies to enhance user experience and provide additional functionalities. On this page, we explain what cookies are, how we use them, and how you can control them.
