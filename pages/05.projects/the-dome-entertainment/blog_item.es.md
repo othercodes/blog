@@ -13,5 +13,7 @@ taxonomy:
         - proyectos
     tag:
         - 'sitio web'
+        - 'diseño web'
+        - 'gantry 5'
 ---
 
