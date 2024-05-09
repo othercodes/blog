@@ -10,5 +10,16 @@ image:
     text:
         enabled: '1'
 published: false
+metadata:
+    description: ''
+    keywords: ''
+taxonomy:
+    category:
+        - blog
+    tag:
+        - 'software architecture'
+        - 'hexagonal architecture'
+        - 'clean architecture'
+        - 'ports and adaprters'
 ---
 
