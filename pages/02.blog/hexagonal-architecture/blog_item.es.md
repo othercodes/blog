@@ -11,5 +11,7 @@ image:
     text:
         enabled: '1'
 published: false
+access:
+    admin: true
 ---
 
