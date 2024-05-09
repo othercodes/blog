@@ -13,5 +13,17 @@ image:
 published: false
 access:
     admin: true
+metadata:
+    description: ''
+    keywords: ''
+taxonomy:
+    category:
+        - blog
+    tag:
+        - 'arquitectura de software'
+        - 'arquitectura hexagonal'
+        - 'puertos y adaptadores'
+        - 'arquitecturas limpias'
+slug: arquitectura-hexagonal
 ---
 
