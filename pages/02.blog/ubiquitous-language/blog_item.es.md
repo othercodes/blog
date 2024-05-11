@@ -20,9 +20,31 @@ date: '06-04-2020 16:00'
 publish_date: '07-04-2020 16:00'
 media_order: 'featured.jpg,ddd-lenguaje-ubicuo-01.png,ddd-lenguaje-ubicuo-02.png'
 metadata:
+    'og:url': 'https://othercode.io/es/blog/lenguaje-ubicuo'
+    'og:type': article
+    'og:title': 'Lenguaje Ubicuo | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Lenguaje Ubicuo | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
+    'article:published_time': '2020-04-07T16:00:00+10:00'
+    'article:modified_time': '2024-05-11T11:49:27+10:00'
+    'article:author': otherCode
     description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
     keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
 slug: lenguaje-ubicuo
+aura:
+    metadata:
+        description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
+        keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
+    pagetype: article
+    image: featured.jpg
 ---
 
 Una de las primeras cosas que se oye cuando se habla de DDD es el termino "_Lenguaje Ubicuo_". Es la base de todo en DDD, usando este lenguaje podremos definir todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos facilitará la tarea de modelar correctamente el dominio de nuestra solución.
