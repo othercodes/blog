@@ -19,9 +19,11 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
     'og:url': 'https://othercode.io/es/blog/instalacion-php-56-70-71-72-centos-rhel-7'
     'og:type': article
     'og:title': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 | otherCode'
+    'og:description': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
     'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -29,23 +31,23 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 | otherCode'
+    'twitter:description': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
     'article:published_time': '2018-12-08T00:00:00+10:00'
-    'article:modified_time': '2024-05-07T16:22:59+10:00'
+    'article:modified_time': '2024-05-11T11:44:32+10:00'
     'article:author': otherCode
-    description: 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
     keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
 date: '08-12-2018 00:00'
 publish_date: '08-12-2018 00:00'
 slug: instalacion-php-56-70-71-72-centos-rhel-7
 aura:
     metadata:
-        description: 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
         keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
     pagetype: article
     image: featured.jpeg
+    description: 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
 ---
 
 La instalación de las últimas versiones de PHP en CentOS/RHEL puede no ser tan fácil como parece ya que hay que realizar ciertos pasos previos. Además, cada una de estas versiones tiene un directorio de instalación algo peculiar. En este artículo cubriremos todos los pasos para las instalación y uso de las versiones de PHP 5.6, 7.0, 7.1 y 7.2.
