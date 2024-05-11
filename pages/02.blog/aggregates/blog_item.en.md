@@ -18,24 +18,32 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
     'og:url': 'https://othercode.io/blog/aggregates'
-    'og:type': website
+    'og:type': article
     'og:title': 'Aggregates | otherCode'
+    'og:description': 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
+    'og:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Aggregates | otherCode'
+    'twitter:description': 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.jpg'
     'article:published_time': '2021-03-08T06:23:00+10:00'
-    'article:modified_time': '2024-05-11T11:38:08+10:00'
+    'article:modified_time': '2024-05-11T11:38:19+10:00'
     'article:author': otherCode
-    description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
     keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
 aura:
     metadata:
-        description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
         keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
-    pagetype: website
+    pagetype: article
+    description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
+    image: featured.jpg
 ---
 
 Modeling our programs using DDD (Domain-Driven Design) helps us transfer the terminology, concepts and ideas of our business domain to the software we are developing. Aggregates and Entities are basic elements when applying DDD. One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.
