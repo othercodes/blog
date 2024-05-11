@@ -18,9 +18,11 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
     'og:url': 'https://othercode.io/es/blog/bounded-context'
     'og:type': article
     'og:title': 'Bounded Context | otherCode'
+    'og:description': 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
     'og:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -28,22 +30,23 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Bounded Context | otherCode'
+    'twitter:description': 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
     'article:published_time': '2020-04-19T15:34:00+10:00'
-    'article:modified_time': '2024-05-11T11:38:58+10:00'
+    'article:modified_time': '2024-05-11T11:40:34+10:00'
     'article:author': otherCode
-    description: 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
     keywords: 'ddd, bounded context, contextos acotados, dominio, modelar dominio, domain model, model'
 date: '18-04-2020 15:34'
 publish_date: '19-04-2020 15:34'
 media_order: 'featured.jpg,bounded-context.png'
 aura:
     metadata:
-        description: 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
         keywords: 'ddd, bounded context, contextos acotados, dominio, modelar dominio, domain model, model'
     pagetype: article
+    description: 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
+    image: featured.jpg
 ---
 
 Un aspecto crítico a la hora de implementar DDD es la correcta definición de los Bounded Context (_Contextos Acotados_ en español). Esto nos permitirá, a su vez, definir los agregados y demás elementos de nuestro sistema. El Lenguaje Ubicuo juega un papel decisivo a la hora de definir cada uno de nuestros bounded context.
