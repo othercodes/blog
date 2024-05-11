@@ -19,10 +19,9 @@ metadata:
     'twitter:title': 'Hexagonal Architecture | otherCode'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'article:published_time': '2024-05-09T13:12:37+10:00'
-    'article:modified_time': '2024-05-09T13:12:37+10:00'
+    'article:published_time': '2024-05-11T11:43:30+10:00'
+    'article:modified_time': '2024-05-11T11:43:47+10:00'
     'article:author': otherCode
-    description: ''
     keywords: ''
 taxonomy:
     category:
@@ -34,7 +33,6 @@ taxonomy:
         - 'ports and adaprters'
 aura:
     metadata:
-        description: ''
         keywords: ''
     pagetype: article
 ---
