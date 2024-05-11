@@ -18,8 +18,24 @@ image:
     text:
         enabled: '1'
 metadata:
+    'og:url': 'https://othercode.io/blog/aggregates'
+    'og:type': website
+    'og:title': 'Aggregates | otherCode'
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Aggregates | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'article:published_time': '2021-03-08T06:23:00+10:00'
+    'article:modified_time': '2024-05-11T11:38:08+10:00'
+    'article:author': otherCode
     description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
     keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
+aura:
+    metadata:
+        description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
+        keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
+    pagetype: website
 ---
 
 Modeling our programs using DDD (Domain-Driven Design) helps us transfer the terminology, concepts and ideas of our business domain to the software we are developing. Aggregates and Entities are basic elements when applying DDD. One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.
