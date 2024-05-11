@@ -7,9 +7,11 @@ facebookenable: true
 date: '11-05-2020 17:27'
 publish_date: '08-03-2021 06:23'
 metadata:
+    description: 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
     'og:url': 'https://othercode.io/es/blog/agregados'
-    'og:type': website
+    'og:type': article
     'og:title': 'Agregados | otherCode'
+    'og:description': 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
     'og:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -17,13 +19,13 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Agregados | otherCode'
+    'twitter:description': 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.jpg'
     'article:published_time': '2021-03-08T06:23:00+10:00'
-    'article:modified_time': '2024-05-08T15:19:30+10:00'
+    'article:modified_time': '2024-05-11T11:37:53+10:00'
     'article:author': otherCode
-    description: 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
     keywords: 'ddd, aggregates, agregados, dominio, modelar dominio, domain model, model'
 taxonomy:
     category:
@@ -41,9 +43,10 @@ slug: agregados
 routes: {  }
 aura:
     metadata:
-        description: 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
         keywords: 'ddd, aggregates, agregados, dominio, modelar dominio, domain model, model'
-    pagetype: website
+    pagetype: article
+    description: 'Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.'
+    image: featured.jpg
 ---
 
 Modelar nuestros programas usando DDD (Domain-Driven Design) nos ayuda a trasladar la terminología, conceptos e ideas del dominio de nuestro negocio al software que estamos desarrollando. Los Agregados y las Entidades son elementos básicos a la hora de aplicar DDD. Uno de los conceptos más incomprendidos pero fundamentales en DDD son los agregados. Definirlos erróneamente puede traer consecuencias desastrosas para nuestros programas.
