@@ -11,6 +11,17 @@ image:
         enabled: '1'
 published: false
 metadata:
+    'og:url': 'https://othercode.io/blog/hexagonal-architecture'
+    'og:type': article
+    'og:title': 'Hexagonal Architecture | otherCode'
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Hexagonal Architecture | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'article:published_time': '2024-05-09T13:12:37+10:00'
+    'article:modified_time': '2024-05-09T13:12:37+10:00'
+    'article:author': otherCode
     description: ''
     keywords: ''
 taxonomy:
@@ -21,5 +32,10 @@ taxonomy:
         - 'hexagonal architecture'
         - 'clean architecture'
         - 'ports and adaprters'
+aura:
+    metadata:
+        description: ''
+        keywords: ''
+    pagetype: article
 ---
 
