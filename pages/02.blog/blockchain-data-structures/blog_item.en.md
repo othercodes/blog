@@ -32,7 +32,7 @@ publish_date: '29-03-2020 00:00'
 metadata:
     description: 'Analysis of blockchain as a data structure, characteristics and applications.'
     'og:url': 'https://othercode.io/blog/estructura-de-datos-blockchain'
-    'og:type': website
+    'og:type': article
     'og:title': 'Blockchain Data Structures | otherCode'
     'og:description': 'Analysis of blockchain as a data structure, characteristics and applications.'
     'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:34:47+10:00'
+    'article:modified_time': '2024-05-11T11:36:20+10:00'
     'article:author': otherCode
     keywords: 'blockchain, data structures, blockchain php'
 twitterenable: true
@@ -59,7 +59,7 @@ slug: estructura-de-datos-blockchain
 aura:
     metadata:
         keywords: 'blockchain, data structures, blockchain php'
-    pagetype: website
+    pagetype: article
     description: 'Analysis of blockchain as a data structure, characteristics and applications.'
     image: featured.jpg
 ---
