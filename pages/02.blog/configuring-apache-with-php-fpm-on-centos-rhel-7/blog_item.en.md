@@ -21,24 +21,32 @@ image:
 date: '25-11-2019 12:37'
 publish_date: '25-11-2019 12:37'
 metadata:
+    description: 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
     'og:url': 'https://othercode.io/blog/configuring-apache-with-php-fpm-on-centos-rhel-7'
     'og:type': article
     'og:title': 'Configuring Apache with PHP-FPM on CentOS/RHEL 7 | otherCode'
+    'og:description': 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
+    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Configuring Apache with PHP-FPM on CentOS/RHEL 7 | otherCode'
+    'twitter:description': 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.jpg'
     'article:published_time': '2019-11-25T12:37:00+10:00'
-    'article:modified_time': '2024-05-11T11:41:11+10:00'
+    'article:modified_time': '2024-05-11T11:41:21+10:00'
     'article:author': otherCode
-    description: 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
     keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, installation and configuration'
 aura:
     metadata:
-        description: 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
         keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, installation and configuration'
     pagetype: article
+    description: 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
+    image: featured.jpg
 ---
 
 PHP-FPM, or PHP FastCGI Process Manager, is an alternative implementation of PHP FastCGI that can handle a high volume of queries. Combined with PHP 7, PHP-FPM achieves a higher level of performance than any previous version of PHP.
