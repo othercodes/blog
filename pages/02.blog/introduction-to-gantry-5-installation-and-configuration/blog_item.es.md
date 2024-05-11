@@ -20,9 +20,30 @@ image:
 date: '20-08-2013 21:23'
 publish_date: '20-08-2013 21:23'
 metadata:
+    'og:url': 'https://othercode.io/es/blog/introducci%C3%B3n-a-gantry-5-instalaci%C3%B3n-y-configuraci%C3%B3n'
+    'og:type': article
+    'og:title': 'Introducción a Gantry 5: Instalación y Configuración | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.png'
+    'og:image:type': image/png
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Introducción a Gantry 5: Instalación y Configuración | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.png'
+    'article:published_time': '2013-08-20T21:23:00+10:00'
+    'article:modified_time': '2024-05-07T16:18:28+10:00'
+    'article:author': otherCode
     description: 'Introducción a Gantry 5, instalación, configuración y personalización de plantillas.'
     keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
 slug: introducción-a-gantry-5-instalación-y-configuración
+aura:
+    metadata:
+        description: 'Introducción a Gantry 5, instalación, configuración y personalización de plantillas.'
+        keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
+    pagetype: article
 ---
 
 Gantry? Qué es Gantry? Bien, Gantry es un framework de desarrollo de plantillas para Joomla y Wordpress. Este framework nos ayuda a desarrollar y manipular muy rápidamente el diseño de nuestro sitio web. Gantry está desarrollado por RocketTheme y actualmente se encuentra en su versión 5.4.24.
