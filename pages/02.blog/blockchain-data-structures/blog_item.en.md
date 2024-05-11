@@ -30,6 +30,22 @@ image:
         enabled: '1'
 publish_date: '29-03-2020 00:00'
 metadata:
+    'og:url': 'https://othercode.io/blog/estructura-de-datos-blockchain'
+    'og:type': website
+    'og:title': 'Blockchain Data Structures | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Blockchain Data Structures | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
+    'article:published_time': '2020-03-29T00:00:00+10:00'
+    'article:modified_time': '2024-05-08T15:30:11+10:00'
+    'article:author': otherCode
     description: 'Analysis of blockchain as a data structure, characteristics and applications.'
     keywords: 'blockchain, data structures, blockchain php'
 twitterenable: true
@@ -38,6 +54,10 @@ articleenabled: false
 facebookenable: true
 date: '29-03-2020 00:00'
 slug: estructura-de-datos-blockchain
+aura:
+    metadata:
+        description: 'Analysis of blockchain as a data structure, characteristics and applications.'
+        keywords: 'blockchain, data structures, blockchain php'
 ---
 
 When we hear the word _blockchain_, we automatically think of Bitcoin or Cryptocurrencies, however _blockchain_ is, no more and no less, a type of **data structure**.
