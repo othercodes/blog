@@ -18,10 +18,32 @@ image:
     text:
         enabled: '1'
 metadata:
+    'og:url': 'https://othercode.io/blog/what-is-restful'
+    'og:type': article
+    'og:title': 'What is RESTful? | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'What is RESTful? | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
+    'article:published_time': '2019-12-16T17:53:00+10:00'
+    'article:modified_time': '2024-05-11T11:51:21+10:00'
+    'article:author': otherCode
     description: 'Introduction to the rest architecture, constraints, resources, methods and state codes.'
     keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
 date: '16-12-2019 17:53'
 publish_date: '16-12-2019 17:53'
+aura:
+    metadata:
+        description: 'Introduction to the rest architecture, constraints, resources, methods and state codes.'
+        keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
+    pagetype: article
+    image: featured.jpg
 ---
 
 REST or Representational State Transfer is a type of architecture for hypermedia systems. This term was coined by [Roy Fielding](https://twitter.com/fielding) in his [doctoral thesis on the web](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) in 2000. Although the term REST originally refers to the architecture itself, it is currently used to describe any interface that uses HTTP to obtain data or initiate the execution of operations on data.
