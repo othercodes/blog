@@ -14,9 +14,11 @@ taxonomy:
 date: '24-12-2018 00:00'
 publish_date: '26-12-2018 00:00'
 metadata:
+    description: 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
     'og:url': 'https://othercode.io/blog/gantry-5-directory-and-file-structure'
     'og:type': article
     'og:title': 'Gantry 5: Directory and File Structure | otherCode'
+    'og:description': 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
     'og:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -24,13 +26,13 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Gantry 5: Directory and File Structure | otherCode'
+    'twitter:description': 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:42:56+10:00'
+    'article:modified_time': '2024-05-11T11:43:06+10:00'
     'article:author': otherCode
-    description: 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
     keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
 image:
     summary:
@@ -40,9 +42,10 @@ image:
 media_order: 'featured.jpeg,discover_tpl.png,style-editor-cfg-file-example.png'
 aura:
     metadata:
-        description: 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
         keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
     pagetype: article
+    description: 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
+    image: featured.jpeg
 ---
 
 In the previous article Introduction to [Gantry 5: Installation and Configuration](/blog/introduction-to-gantry-5-installation-and-configuration) we saw how to install and configure Gantry in a very basic way, we also learned the basic concepts of this template development framework as well as its administration area.
