@@ -21,8 +21,30 @@ image:
 date: '23-03-2020 14:50'
 publish_date: '23-03-2020 14:50'
 metadata:
+    'og:url': 'https://othercode.io/blog/value-objects'
+    'og:type': article
+    'og:title': 'Value Objects | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/value-objects/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Value Objects | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/value-objects/featured.jpg'
+    'article:published_time': '2020-03-23T14:50:00+10:00'
+    'article:modified_time': '2024-05-11T11:50:27+10:00'
+    'article:author': otherCode
     description: 'Value Objects (VO) are a fundamental piece of Domain-Driven-Design (DDD) and object-oriented programming.'
     keywords: 'ddd, php, value objects, immutability, design patterns'
+aura:
+    metadata:
+        description: 'Value Objects (VO) are a fundamental piece of Domain-Driven-Design (DDD) and object-oriented programming.'
+        keywords: 'ddd, php, value objects, immutability, design patterns'
+    pagetype: article
+    image: featured.jpg
 ---
 
 **Value Objects (VO)** are a fundamental piece of Domain-Driven-Design (DDD) and object-oriented programming. They describe a concept of our domain layer.
