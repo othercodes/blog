@@ -20,9 +20,11 @@ date: '06-04-2020 16:00'
 publish_date: '07-04-2020 16:00'
 media_order: 'featured.jpg,ddd-lenguaje-ubicuo-01.png,ddd-lenguaje-ubicuo-02.png'
 metadata:
+    description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     'og:url': 'https://othercode.io/blog/ubiquitous-language'
     'og:type': article
     'og:title': 'Ubiquitous Language | otherCode'
+    'og:description': 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -30,20 +32,20 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Ubiquitous Language | otherCode'
+    'twitter:description': 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-07T16:18:57+10:00'
+    'article:modified_time': '2024-05-11T11:49:14+10:00'
     'article:author': otherCode
-    description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
 aura:
     metadata:
-        description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
         keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
     pagetype: article
     image: featured.jpg
+    description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
 ---
 
 One of the first things you hear when talking about DDD is the term "_Ubiquitous Language_". It is the basis of everything in DDD, using this language we will be able to define all the concepts of our business, it will help us communicate correctly and above all, it will facilitate the task of correctly modeling the domain of our solution.
