@@ -20,8 +20,30 @@ image:
 date: '01-01-2019 12:29'
 publish_date: '07-01-2019 12:29'
 metadata:
+    'og:url': 'https://othercode.io/blog/static-analysis-of-php-code-with-phan'
+    'og:type': article
+    'og:title': 'Static Analysis of PHP Code with Phan | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Static Analysis of PHP Code with Phan | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
+    'article:published_time': '2019-01-07T12:29:00+10:00'
+    'article:modified_time': '2024-05-07T16:11:19+10:00'
+    'article:author': otherCode
     description: 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
     keywords: 'phan, static analysis, php7, static code analysis, php issues'
+aura:
+    metadata:
+        description: 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
+        keywords: 'phan, static analysis, php7, static code analysis, php issues'
+    pagetype: article
+    image: featured.jpeg
 ---
 
 [Phan](https://github.com/phan/phan) is a static code analyzer that allows us to evaluate the code without executing it, identifying potential problems in early stages of the software life cycle. This provides us with significant cost savings, as we anticipate potential problems before they become reality.
