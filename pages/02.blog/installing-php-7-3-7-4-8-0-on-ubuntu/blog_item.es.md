@@ -18,9 +18,11 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
     'og:url': 'https://othercode.io/es/blog/instalaci%C3%B3n-php-73-74-80-ubuntu'
     'og:type': article
     'og:title': 'Instalación de PHP 7.3, 7.4, 8.0 en Ubuntu | otherCode'
+    'og:description': 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
     'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -28,23 +30,23 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Instalación de PHP 7.3, 7.4, 8.0 en Ubuntu | otherCode'
+    'twitter:description': 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
     'article:published_time': '2018-12-31T00:00:00+10:00'
-    'article:modified_time': '2024-05-07T16:22:01+10:00'
+    'article:modified_time': '2024-05-11T11:45:25+10:00'
     'article:author': otherCode
-    description: 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
     keywords: 'Instalación, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
 date: '26-12-2018 00:00'
 publish_date: '31-12-2018 00:00'
 slug: instalación-php-73-74-80-ubuntu
 aura:
     metadata:
-        description: 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
         keywords: 'Instalación, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
     pagetype: article
     image: featured.jpeg
+    description: 'Instalación de PHP 7.1, 7.2 y 7.4 en Ubuntu usando PPA ondrej y configuración con update-alternatives.'
 ---
 
 PHP es uno de los lenguajes de programación web mas extendidos en Internet. Actualmente hay tres versiones en [soporte activo](http://php.net/supported-versions.php), 7.1, 7.2, 7.3 y 7.4 que fue lanzada el 28 de Noviembre de 2019. Es recomendable siempre usar la versión estable más nueva, en este caso es la 7.4, sin embargo, podemos instalarnos cualquiera de estas tres versiones en nuestro sistema.
