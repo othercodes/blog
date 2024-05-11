@@ -19,10 +19,31 @@ image:
     text:
         enabled: '1'
 metadata:
+    'og:url': 'https://othercode.io/blog/bounded-context'
+    'og:type': article
+    'og:title': 'Bounded Context | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': 800
+    'og:image:height': 350
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Bounded Context | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
+    'article:published_time': '2020-04-19T15:34:00+10:00'
+    'article:modified_time': '2024-05-03T15:04:24+10:00'
+    'article:author': otherCode
     description: 'A bounded context is a logical division where a business problem and its solution are fully defined.'
     keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
 date: '18-04-2020 15:34'
 publish_date: '19-04-2020 15:34'
+aura:
+    metadata:
+        description: 'A bounded context is a logical division where a business problem and its solution are fully defined.'
+        keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
+    pagetype: article
 ---
 
 A critical aspect when implementing DDD is the correct definition of the Bounded Context (_Contextos Acotados_ in Spanish). This will allow us, in turn, to define the aggregates and other elements of our system. Ubiquitous Language plays a decisive role in defining each of our bounded contexts.
