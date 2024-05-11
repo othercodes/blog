@@ -30,9 +30,11 @@ image:
         enabled: '1'
 publish_date: '29-03-2020 00:00'
 metadata:
+    description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     'og:url': 'https://othercode.io/es/blog/estructura-de-datos-blockchain'
-    'og:type': website
+    'og:type': article
     'og:title': 'Estructura de datos Blockchain | otherCode'
+    'og:description': 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -40,13 +42,13 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Estructura de datos Blockchain | otherCode'
+    'twitter:description': 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:36:38+10:00'
+    'article:modified_time': '2024-05-11T11:36:47+10:00'
     'article:author': otherCode
-    description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
 twitterenable: true
 twittercardoptions: summary
@@ -56,9 +58,10 @@ date: '29-03-2020 00:00'
 slug: estructura-de-datos-blockchain
 aura:
     metadata:
-        description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
         keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
-    pagetype: website
+    pagetype: article
+    description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
+    image: featured.jpg
 ---
 
 Cuando escuchamos la palabra _blockchain_, automáticamente pensamos en Bitcoin o en Cryptomonedas, sin embargo _blockchain_ o cadena de bloques es, ni mas ni menos, un tipo de **estructura de datos**.
