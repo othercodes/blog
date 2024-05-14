@@ -9,7 +9,6 @@ image:
         enabled: '1'
     text:
         enabled: '1'
-published: false
 metadata:
     'og:url': 'https://othercode.io/blog/hexagonal-architecture'
     'og:type': article
@@ -24,8 +23,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T20:23:04+10:00'
-    'article:modified_time': '2024-05-14T20:23:04+10:00'
+    'article:published_time': '2024-05-14T20:25:22+10:00'
+    'article:modified_time': '2024-05-14T20:26:56+10:00'
     'article:author': otherCode
     keywords: ''
 taxonomy:
