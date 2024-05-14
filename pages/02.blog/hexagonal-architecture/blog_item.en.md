@@ -24,8 +24,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-11T11:43:59+10:00'
-    'article:modified_time': '2024-05-11T11:43:59+10:00'
+    'article:published_time': '2024-05-11T11:44:06+10:00'
+    'article:modified_time': '2024-05-14T20:22:44+10:00'
     'article:author': otherCode
     keywords: ''
 taxonomy:
@@ -41,5 +41,6 @@ aura:
         keywords: ''
     pagetype: article
     image: featured.jpg
+media_order: 'featured.jpg,hexagonal-architecture-complexity.png,hexagonal-architecture-layers.png'
 ---
 
