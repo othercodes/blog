@@ -10,9 +10,11 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
     'og:url': 'https://othercode.io/blog/hexagonal-architecture'
     'og:type': article
     'og:title': 'Hexagonal Architecture | otherCode'
+    'og:description': 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
     'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -20,13 +22,14 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Hexagonal Architecture | otherCode'
+    'twitter:description': 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T20:27:09+10:00'
-    'article:modified_time': '2024-05-14T21:00:59+10:00'
+    'article:published_time': '2024-05-14T21:02:18+10:00'
+    'article:modified_time': '2024-05-14T21:02:18+10:00'
     'article:author': otherCode
-    keywords: ''
+    keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
     category:
         - blog
@@ -37,9 +40,10 @@ taxonomy:
         - 'ports and adaprters'
 aura:
     metadata:
-        keywords: ''
+        keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
     pagetype: article
     image: featured.jpg
+    description: 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
 media_order: 'featured.jpg,hexagonal-architecture-complexity.png,hexagonal-architecture-layers.png'
 ---
 
