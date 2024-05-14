@@ -10,7 +10,6 @@ image:
         enabled: '1'
     text:
         enabled: '1'
-published: false
 access:
     admin: true
 metadata:
@@ -27,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-11T11:44:16+10:00'
-    'article:modified_time': '2024-05-14T20:25:22+10:00'
+    'article:published_time': '2024-05-14T20:26:41+10:00'
+    'article:modified_time': '2024-05-14T20:26:41+10:00'
     'article:author': otherCode
     keywords: ''
 taxonomy:
@@ -46,7 +45,6 @@ aura:
     pagetype: article
     image: featured.jpg
 ---
-
 
 La Arquitectura Hexagonal, también conocida como Arquitectura de Puertos y Adaptadores, divide un sistema en múltiples componentes intercambiables y con [bajo acoplamiento estructural](https://en.wikipedia.org/wiki/Loose_coupling). A diferencia de la arquitectura tradicional en capas, la Arquitectura Hexagonal enfatiza un enfoque más flexible y modular.
 
