@@ -11,9 +11,11 @@ image:
     text:
         enabled: '1'
 metadata:
+    description: 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
     'og:url': 'https://othercode.io/es/blog/arquitectura-hexagonal'
     'og:type': article
     'og:title': 'Arquitectura Hexagonal | otherCode'
+    'og:description': 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
     'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
     'og:image:type': image/jpeg
     'og:image:width': 800
@@ -21,13 +23,14 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Arquitectura Hexagonal | otherCode'
+    'twitter:description': 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T20:49:32+10:00'
-    'article:modified_time': '2024-05-14T20:49:32+10:00'
+    'article:published_time': '2024-05-14T21:00:59+10:00'
+    'article:modified_time': '2024-05-14T21:11:27+10:00'
     'article:author': otherCode
-    keywords: ''
+    keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
     category:
         - blog
@@ -39,9 +42,10 @@ taxonomy:
 slug: arquitectura-hexagonal
 aura:
     metadata:
-        keywords: ''
+        keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
     pagetype: article
     image: featured.jpg
+    description: 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
 ---
 
 La Arquitectura Hexagonal, también conocida como Arquitectura de Puertos y Adaptadores, divide un sistema en múltiples componentes intercambiables y con [bajo acoplamiento estructural](https://en.wikipedia.org/wiki/Loose_coupling). A diferencia de la arquitectura tradicional en capas, la Arquitectura Hexagonal enfatiza un enfoque más flexible y modular.
