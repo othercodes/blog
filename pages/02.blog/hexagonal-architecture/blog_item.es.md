@@ -27,8 +27,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T21:12:19+10:00'
-    'article:modified_time': '2024-05-16T22:51:53+10:00'
+    'article:published_time': '2024-05-16T22:52:21+10:00'
+    'article:modified_time': '2024-05-16T22:56:54+10:00'
     'article:author': otherCode
     keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
@@ -254,9 +254,9 @@ echo "New user $user->name (#{$user->id()}) created!\n";
 exit(0);
 ```
 
-El `UserCreateController` y el `UserListController` exponen la lógica empresarial a través de una aplicación de linea de comandos, pero pueden ser reemplazados fácilmente, por ejemplo, con un controlador HTTP. Aunque este componente pertenece a la infraestructura, al constituir la "Aplicación" _per se_ (no la Capa de Aplicación), podemos organizar el código según las convenciones del framework que se esté utilizando. 
+El `UserCreateController` y el `UserListController` exponen la lógica empresarial a través de una aplicación de linea de comandos, pero pueden ser reemplazados fácilmente, por ejemplo, con un controlador HTTP. 
 
-Nótese que en este ejemplo no hemos usado ningún framework, ya que el propósito era ilustrar cómo se dividen los componentes en las diferentes capas, no aprender a implementar arquitectura Hexagonal con un framework en particular.
+Aunque este componente pertenece a la infraestructura, al constituir la "Aplicación" _per se_ (no la Capa de Aplicación), podemos organizar el código según las convenciones del framework que se esté utilizando. Nótese que en este ejemplo no hemos usado ningún framework, ya que el propósito era ilustrar cómo se dividen los componentes en las diferentes capas, no aprender a implementar arquitectura Hexagonal con un framework en particular.
 
 Revisa el codigo de ejemplo en el repositorio [Hexagonal Architecture Example in PHP](https://github.com/othercodes/hexagonal-architecture-example-in-php).
 
