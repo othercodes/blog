@@ -27,8 +27,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T21:00:59+10:00'
-    'article:modified_time': '2024-05-14T21:11:27+10:00'
+    'article:published_time': '2024-05-14T21:12:19+10:00'
+    'article:modified_time': '2024-05-16T22:51:53+10:00'
     'article:author': otherCode
     keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
@@ -76,7 +76,7 @@ Contiene el código que cambia en función de decisiones externas (SDK, framewor
 
 ## Regla de Dependencia
 
-El código que se encuentra en cada una de nuestras capas debe conocer solo las clases ubicadas en la capa inmediatamente siguiente. Entendemos el orden de las capas de afuera hacia adentro:
+El código dentro de cada una de nuestras capas sólo debe conocer las clases situadas en la capa inmediatamente adyacente. Entendemos el orden de las capas de afuera hacia adentro:
 
 > **Infraestructura -> Aplicación -> Dominio**
 
