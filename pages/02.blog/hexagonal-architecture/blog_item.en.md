@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-14T21:02:18+10:00'
-    'article:modified_time': '2024-05-14T21:02:18+10:00'
+    'article:published_time': '2024-05-14T21:11:27+10:00'
+    'article:modified_time': '2024-05-14T21:12:19+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -75,7 +75,7 @@ The code that changes based on external decisions (SDK, frameworks, libraries, e
 
 ## Dependency Rule
 
-The code that can be found in each of our layers and that should only know the classes that are located in the immediately following layer. We understand the order of the layers from the outside to the inside:
+The code within each of our layers should only be acquainted with the classes situated in the immediately adjacent layer.. We understand the order of the layers from the outside to the inside:
 
 > **Infrastructure -> Application -> Domain**
 
