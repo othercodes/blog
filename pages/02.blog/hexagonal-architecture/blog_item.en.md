@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-16T22:51:40+10:00'
-    'article:modified_time': '2024-05-16T22:51:40+10:00'
+    'article:published_time': '2024-05-16T22:51:53+10:00'
+    'article:modified_time': '2024-05-16T22:52:21+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -248,9 +248,9 @@ echo "New user $user->name (#{$user->id()}) created!\n";
 exit(0);
 ```
 
-The `UserCreateController` and `UserListController` exposes the business logic through a CLI application, but it can be seamlessly replaced, for example, with an HTTP controller. Although this component belongs to the infrastructure, as it constitutes the actual "Application" (not the Application Layer), we may organize the code according to the conventions of the framework being used.
+The `UserCreateController` and `UserListController` exposes the business logic through a CLI application, but it can be seamlessly replaced, for example, with an HTTP controller. 
 
-Note that in this example we have not used any framework, as the purpose was to illustrate how the components are divided into different layers, not to learn to implement Hexagonal Architecture with a particular framework.
+Although this component belongs to the infrastructure, as it constitutes the actual "Application" (not the Application Layer), we may organize the code according to the conventions of the framework being used. Note that in this example we have not used any framework, as the purpose was to illustrate how the components are divided into different layers, not to learn to implement Hexagonal Architecture with a particular framework.
 
 Check the code example in the repository [Hexagonal Architecture Example in PHP](https://github.com/othercodes/hexagonal-architecture-example-in-php).
 
