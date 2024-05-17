@@ -27,8 +27,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
-    'article:published_time': '2024-05-17T21:27:25+10:00'
-    'article:modified_time': '2024-05-17T21:27:25+10:00'
+    'article:published_time': '2024-05-17T21:27:39+10:00'
+    'article:modified_time': '2024-05-17T21:27:39+10:00'
     'article:author': otherCode
     keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
@@ -60,7 +60,7 @@ En esta arquitectura, cada componente pertenece a una capa específica y está c
 
 El sistema está organizado en tres capas distintas, cada una con un propósito específico, encapsulando diferentes aspectos del software.
 
-![Layers](hexagonal-architecture-layers.png)
+![Layers](hexagonal-architecture-layers.webp)
 
 **Capa de Dominio**
 
