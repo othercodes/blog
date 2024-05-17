@@ -31,7 +31,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
     'article:published_time': '2018-12-31T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:45:47+10:00'
+    'article:modified_time': '2024-05-17T20:12:01+10:00'
     'article:author': otherCode
     keywords: 'Installation, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
 image:
@@ -45,6 +45,7 @@ aura:
     pagetype: article
     image: featured.jpeg
     description: 'Installing PHP 7.1, 7.2 and 7.4 on Ubuntu using ondrej PPA and configuration with update-alternatives.'
+media_order: 'featured.webp,featured.jpeg,phpswitch.gif'
 ---
 
 PHP is one of the most widespread web programming languages on the Internet. There are currently three versions in [active support](http://php.net/supported-versions.php), 7.1, 7.2, 7.3 and 7.4 which was released on November 28, 2019. It is advisable to always use the most stable version new, in this case it is 7.4, however, we can install any of these three versions on our system.
