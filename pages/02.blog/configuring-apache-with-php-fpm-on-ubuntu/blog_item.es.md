@@ -35,7 +35,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.jpg'
     'article:published_time': '2019-12-14T10:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:41:49+10:00'
+    'article:modified_time': '2024-05-17T20:04:10+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, instalación y configuración'
 media_order: featured.jpg
