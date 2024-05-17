@@ -31,7 +31,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:42:30+10:00'
+    'article:modified_time': '2024-05-17T20:42:46+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
 image:
@@ -105,7 +105,7 @@ form:
 
 The code we see above results in the following controls in the administration area:
 
-![style-editor-cfg-file-example](style-editor-cfg-file-example.png "style-editor-cfg-file-example")
+![style-editor-cfg-file-example](style-editor-cfg-file-example.webp "style-editor-cfg-file-example")
 
 Later we will delve into how to edit these files to add the features we want.
 
@@ -285,7 +285,7 @@ We will change this data at will, for example, `<author>`, `<authorUrl>` and `<a
 
 Now that we have changed all the files with the new name of our template we can install it in our **Joomla**, to do this we will go to **Extensions > Manage > Discover**:
 
-![discover_tpl](discover_tpl.png "discover_tpl")
+![discover_tpl](discover_tpl.webp "discover_tpl")
 
 Finally we select our template and import it by clicking the **Install** button.
 
