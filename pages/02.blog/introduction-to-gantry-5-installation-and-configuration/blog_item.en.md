@@ -22,19 +22,14 @@ metadata:
     'og:type': article
     'og:title': 'Introduction to Gantry 5: Installation and Configuration | otherCode'
     'og:description': 'Introduction to Gantry 5, installation, configuration and customization of templates.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.png'
-    'og:image:type': image/png
-    'og:image:width': 800
-    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Introduction to Gantry 5: Installation and Configuration | otherCode'
     'twitter:description': 'Introduction to Gantry 5, installation, configuration and customization of templates.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.png'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:21:50+10:00'
+    'article:modified_time': '2024-05-17T20:25:53+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, template development, gantry 5 templates, gantry 5 configuration, gantry 5 introduction'
 date: '20-08-2013 21:23'
