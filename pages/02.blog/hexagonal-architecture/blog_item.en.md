@@ -15,8 +15,8 @@ metadata:
     'og:type': article
     'og:title': 'Hexagonal Architecture | otherCode'
     'og:description': 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -25,9 +25,9 @@ metadata:
     'twitter:description': 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-17T21:26:28+10:00'
-    'article:modified_time': '2024-05-17T21:26:28+10:00'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
+    'article:published_time': '2024-05-17T21:26:51+10:00'
+    'article:modified_time': '2024-05-17T21:26:51+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -42,7 +42,7 @@ aura:
     metadata:
         keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
 media_order: 'featured.webp,hexagonal-architecture-layers.webp,featured.jpg,hexagonal-architecture-layers.png'
 ---
