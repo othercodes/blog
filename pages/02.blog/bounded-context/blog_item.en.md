@@ -12,7 +12,7 @@ taxonomy:
         - 'domain-driven design'
         - ddd
         - 'design patterns'
-media_order: 'bounded-context.webp,featured.webp'
+media_order: 'featured.webp,bounded-context.webp'
 image:
     summary:
         enabled: '1'
@@ -36,7 +36,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.webp'
     'article:published_time': '2020-04-19T15:34:00+10:00'
-    'article:modified_time': '2024-05-17T18:51:37+10:00'
+    'article:modified_time': '2024-05-17T18:52:57+10:00'
     'article:author': otherCode
     keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
 date: '18-04-2020 15:34'
