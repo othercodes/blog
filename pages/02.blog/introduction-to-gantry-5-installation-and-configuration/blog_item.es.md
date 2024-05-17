@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.webp'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:35:00+10:00'
+    'article:modified_time': '2024-05-17T20:35:46+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
 slug: introducción-a-gantry-5-instalación-y-configuración
