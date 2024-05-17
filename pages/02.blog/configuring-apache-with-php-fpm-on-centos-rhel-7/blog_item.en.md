@@ -38,7 +38,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.webp'
     'article:published_time': '2019-11-25T12:37:00+10:00'
-    'article:modified_time': '2024-05-17T19:19:21+10:00'
+    'article:modified_time': '2024-05-17T19:20:16+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, installation and configuration'
 aura:
@@ -98,4 +98,4 @@ SetHandler "proxy:fcgi://127.0.0.1:9000"
 
 We can confirm that we are running PHP with PHP FPM with a simple `phpinfo()`;
 
-![php-fpm](php-fpm.png "php-fpm")
+![php-fpm](php-fpm.webp "php-fpm")
