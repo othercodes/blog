@@ -19,8 +19,8 @@ metadata:
     'og:type': article
     'og:title': 'Gantry 5: Directory and File Structure | otherCode'
     'og:description': 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -29,9 +29,9 @@ metadata:
     'twitter:description': 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:42:22+10:00'
+    'article:modified_time': '2024-05-17T20:42:30+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
 image:
@@ -45,7 +45,7 @@ aura:
         keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
     pagetype: article
     description: 'In this article we will learn about the file structure of our template and we will learn what each of the different configuration files are used for.'
-    image: featured.jpeg
+    image: featured.webp
 ---
 
 In the previous article Introduction to [Gantry 5: Installation and Configuration](/blog/introduction-to-gantry-5-installation-and-configuration) we saw how to install and configure Gantry in a very basic way, we also learned the basic concepts of this template development framework as well as its administration area.
