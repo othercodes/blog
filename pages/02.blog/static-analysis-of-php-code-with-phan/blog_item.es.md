@@ -38,7 +38,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.webp'
     'article:published_time': '2019-01-07T12:29:00+10:00'
-    'article:modified_time': '2024-05-17T20:08:57+10:00'
+    'article:modified_time': '2024-05-17T20:09:33+10:00'
     'article:author': otherCode
     keywords: 'phan, análisis estático, php7, análisis de código estático, incidencias php'
 slug: analisis-estático-de-codigo-php-con-phan
