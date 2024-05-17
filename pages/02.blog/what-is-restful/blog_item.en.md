@@ -23,8 +23,8 @@ metadata:
     'og:type': article
     'og:title': 'What is RESTful? | otherCode'
     'og:description': 'Introduction to the rest architecture, constraints, resources, methods and state codes.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -33,9 +33,9 @@ metadata:
     'twitter:description': 'Introduction to the rest architecture, constraints, resources, methods and state codes.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.webp'
     'article:published_time': '2019-12-16T17:53:00+10:00'
-    'article:modified_time': '2024-05-17T20:00:46+10:00'
+    'article:modified_time': '2024-05-17T20:01:01+10:00'
     'article:author': otherCode
     keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
 date: '16-12-2019 17:53'
@@ -44,7 +44,7 @@ aura:
     metadata:
         keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'Introduction to the rest architecture, constraints, resources, methods and state codes.'
 ---
 
