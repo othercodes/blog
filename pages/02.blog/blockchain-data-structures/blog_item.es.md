@@ -15,7 +15,7 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
-media_order: 'featured.jpg,blockchain.png,linked-lists.png'
+media_order: 'featured.jpg,blockchain.png,linked-lists.png,linked-lists.webp,blockchain.webp,featured.webp'
 taxonomy:
     category:
         - blog
@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T18:47:34+10:00'
+    'article:modified_time': '2024-05-17T18:47:50+10:00'
     'article:author': otherCode
     keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
 twitterenable: true
@@ -77,12 +77,13 @@ Existen muchos tipos de estructuras de datos, tales como _arrays_ o _listas enla
 Una lista enlazada esta formada por nodos que contienen información. Un nodo esta compuesto como mínimo por un objeto de datos y un puntero al siguiente nodo de la lista. El puntero sirve de enlace con el siguiente nodo de la lista.
 
 ![Lista Enlazada](linked-lists.png)
+![Lista Enlazada](linked-lists.webp)
 
 Una de las características de las listas enlazadas es que es necesario recorrerlas para encontrar el dato deseado ya que se requiere conocer el puntero para acceder a cada nodo.
 
 Una **cadena de bloques** es muy similar a las listas enlazadas pero a diferencia de esta, esta compuesta por bloques en vez de nodos, estos bloques son inmutables, es decir, una vez definidos no pueden ser cambiados. También en vez de un puntero tienen un hash único que hace referencia al bloque anterior.
 
-![Cadena de Bloques](blockchain.png)
+![Blockchain](blockchain.webp)
     
 La diferencia mas importante entre las **cadenas de bloques** y las listas enlazadas es que cada referencia en una cadena de bloques, está criptográficamente asegurada.
 
