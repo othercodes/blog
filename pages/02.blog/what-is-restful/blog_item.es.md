@@ -34,7 +34,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
     'article:published_time': '2019-12-16T17:53:00+10:00'
-    'article:modified_time': '2024-05-17T20:00:36+10:00'
+    'article:modified_time': '2024-05-17T20:01:41+10:00'
     'article:author': otherCode
     keywords: 'rest, arquitectura rest, restircciones, recursos, recurso, metodos, codigo de estado'
 date: '16-12-2019 17:53'
@@ -46,7 +46,7 @@ aura:
     pagetype: article
     image: featured.jpg
     description: 'Introducción a la arquitectura rest, restricciones, recursos, métodos y códigos de estado.'
-media_order: 'featured.webp,featured.jpg'
+media_order: featured.webp
 ---
 
 REST o Transferencia de estado representacional es un tipo de arquitectura para sistemas hipermedia. Este término fue acuñado por [Roy Fielding](https://twitter.com/fielding) en su [tesis doctoral sobre la web](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) en el año 2000. Aunque el término REST se refiere originalmente a la arquitectura en sí, actualmente es utilizado para describir cualquier interfaz que utiliza HTTP para obtener datos o iniciar la ejecución de operaciones sobre datos.
