@@ -15,7 +15,7 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
-media_order: 'featured.jpg,blockchain.png,linked-lists.png,linked-lists.webp,blockchain.webp,featured.webp'
+media_order: 'featured.webp,blockchain.webp,linked-lists.webp'
 taxonomy:
     category:
         - blog
@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T18:48:49+10:00'
+    'article:modified_time': '2024-05-17T18:49:21+10:00'
     'article:author': otherCode
     keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
 twitterenable: true
