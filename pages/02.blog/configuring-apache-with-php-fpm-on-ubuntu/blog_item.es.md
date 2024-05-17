@@ -23,8 +23,8 @@ metadata:
     'og:type': article
     'og:title': 'Configurando Apache con PHP-FPM en Ubuntu | otherCode'
     'og:description': 'Instalación y configuración de PHP-FPM con Apache2 sobre Ubuntu.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -33,9 +33,9 @@ metadata:
     'twitter:description': 'Instalación y configuración de PHP-FPM con Apache2 sobre Ubuntu.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.webp'
     'article:published_time': '2019-12-14T10:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:04:10+10:00'
+    'article:modified_time': '2024-05-17T20:04:51+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, instalación y configuración'
 media_order: featured.jpg
@@ -47,7 +47,7 @@ aura:
         keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, instalación y configuración'
     pagetype: article
     description: 'Instalación y configuración de PHP-FPM con Apache2 sobre Ubuntu.'
-    image: featured.jpg
+    image: featured.webp
 ---
 
 Como ya comente en el articulo [Configurando Apache con PHP-FPM en CentOS/RHEL 7](/blog/configurando-apache-con-php-fpm-en-centos-rhel-7), PHP-FPM es una manera mucho mas eficiente de manejar grandes volúmenes de consultas. En este articulo veremos como configurarlo en Ubuntu.
