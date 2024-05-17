@@ -30,7 +30,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:43:45+10:00'
+    'article:modified_time': '2024-05-17T20:43:58+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, joomla, desarrollo de plantillas joomla, plantillas gantry 5, personalizacion gantry 5, renombrar plantilla gantry 5'
 image:
@@ -106,7 +106,7 @@ form:
 
 El código que vemos arriba da como resultado los siguientes controles en la zona de administración:
 
-![style-editor-cfg-file-example](style-editor-cfg-file-example.png "style-editor-cfg-file-example")
+![style-editor-cfg-file-example](style-editor-cfg-file-example.webp "style-editor-cfg-file-example")
 
 Más adelante profundizaremos en como editar estos archivos para añadir las características que deseemos.
 
@@ -286,7 +286,7 @@ Cambiaremos estos datos a nuestra voluntad, por ejemplo, `<author>`, `<authorUrl
 
 Ahora que hemos cambiado todos los archivos con el nuevo nombre de nuestra plantilla podemos instalarla en nuestro **Joomla**, para ello iremos ir a **Extensiones > Gestionar > Descubrir**:
 
-![discover_tpl](discover_tpl.png "discover_tpl")
+![discover_tpl](discover_tpl.webp "discover_tpl")
 
 Finalmente seleccionamos nuestra plantilla y la importamos pulsando el botón de **Instalar**.
 
