@@ -23,24 +23,19 @@ metadata:
     'og:type': article
     'og:title': 'Bounded Context | otherCode'
     'og:description': 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
-    'og:image:type': image/jpeg
-    'og:image:width': 800
-    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Bounded Context | otherCode'
     'twitter:description': 'Un bounded context es una division logica donde un problema de negocio y su solucion estan totalmente definidas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
     'article:published_time': '2020-04-19T15:34:00+10:00'
-    'article:modified_time': '2024-05-11T11:40:34+10:00'
+    'article:modified_time': '2024-05-17T18:51:45+10:00'
     'article:author': otherCode
     keywords: 'ddd, bounded context, contextos acotados, dominio, modelar dominio, domain model, model'
 date: '18-04-2020 15:34'
 publish_date: '19-04-2020 15:34'
-media_order: 'featured.jpg,bounded-context.png'
+media_order: 'featured.webp,bounded-context.webp'
 aura:
     metadata:
         keywords: 'ddd, bounded context, contextos acotados, dominio, modelar dominio, domain model, model'
@@ -65,7 +60,7 @@ Perfecto pero, ¿cómo definimos nuestro dominio? La respuesta es fácil, usando
 
 Por ejemplo, supongamos que estamos desarrollando una plataforma de venta de libros, cuando hablamos con negocio (**ventas**) nos comentan que un _Cliente_ puede realizar _Órdenes_ de compra que a su vez contiene ciertos _Productos_. Otro de los integrantes de negocio nos comenta que en **soporte** los _Clientes_ abren _Tickets_ relacionados con _Productos_ que han comprado. Podemos ver que en el departamento de ventas hablan de _Clientes_, _Órdenes_ y _Productos_, a su vez, en el departamento de soporte hablan también de _Clientes_ y _Productos_ además de _Tickets_ pero no hablan de _Órdenes_. Al continuar con la conversación vemos que existen cada vez más términos no comunes entre la gente de soporte y la gente de ventas, es decir, cada uno usa su propia jerga o lenguaje de negocio, o para nosotros, su lenguaje ubicuo. Ahora que tenemos identificado cada lenguaje ubicuo podemos definir el dominio de cada uno, por ejemplo:
 
-![bounded-context](bounded-context.png "bounded-context")
+![bounded-context](bounded-context.webp "bounded-context")
 
 Observamos qué, tanto _Clientes_ como _Productos_, están repetidos en ambos dominios. Cada uno, cuenta con una representación dentro de cada contexto. Un _Cliente_ para el departamento de Ventas contendrá sus datos personales, su historial de compra, datos de pago, etc. Sin embargo, para el departamento de Soporte los datos de pago no son necesarios, pero si necesitará el historial de compra además del historial de tickets abiertos. Una misma entidad tiene varias representaciones dependiendo del punto de vista o del **contexto** en el que se encuentre. 
 
