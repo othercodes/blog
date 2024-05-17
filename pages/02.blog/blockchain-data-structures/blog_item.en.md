@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T18:47:23+10:00'
+    'article:modified_time': '2024-05-17T18:49:31+10:00'
     'article:author': otherCode
     keywords: 'blockchain, data structures, blockchain php'
 twitterenable: true
@@ -76,13 +76,13 @@ There are many types of data structures, such as _arrays_ or _linked lists_.
 
 A linked list is made up of nodes that contain information. A node consists of at least one data object and a pointer to the next node in the list. The pointer serves as a link to the next node in the list.
 
-![Lista Enlazada](linked-lists.png)
+![Lista Enlazada](linked-lists.webp)
 
 One of the characteristics of linked lists is that it is necessary to traverse them to find the desired data, since it is necessary to know the pointer to access each node.
 
 A **block chain** is very similar to linked lists but unlike linked lists, it is composed of blocks instead of nodes, these blocks are immutable, that is, once defined they cannot be changed. Also instead of a pointer they have a unique hash that references the previous block.
 
-![Cadena de Bloques](blockchain.png)
+![Cadena de Bloques](blockchain.webp)
 
 The most important difference between blockchains and linked lists is that each reference in a blockchain is cryptographically secured.
 
