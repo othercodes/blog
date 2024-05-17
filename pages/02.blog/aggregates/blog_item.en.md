@@ -23,14 +23,19 @@ metadata:
     'og:type': article
     'og:title': 'Aggregates | otherCode'
     'og:description': 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
+    'og:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.webp'
+    'og:image:type': image/webp
+    'og:image:width': 800
+    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Aggregates | otherCode'
     'twitter:description': 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/aggregates/featured.webp'
     'article:published_time': '2021-03-08T06:23:00+10:00'
-    'article:modified_time': '2024-05-17T18:36:18+10:00'
+    'article:modified_time': '2024-05-17T18:36:22+10:00'
     'article:author': otherCode
     keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
 aura:
@@ -38,7 +43,7 @@ aura:
         keywords: 'ddd, aggregates, aggregates, domain, domain model, domain model, model'
     pagetype: article
     description: 'One of the most misunderstood but fundamental concepts in DDD is aggregates. Defining them incorrectly can have disastrous consequences for our programs.'
-    image: featured.jpg
+    image: featured.webp
 media_order: featured.webp
 ---
 
