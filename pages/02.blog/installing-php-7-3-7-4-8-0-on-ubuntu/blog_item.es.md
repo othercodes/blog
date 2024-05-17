@@ -35,7 +35,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
     'article:published_time': '2018-12-31T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:45:25+10:00'
+    'article:modified_time': '2024-05-17T20:12:20+10:00'
     'article:author': otherCode
     keywords: 'Instalación, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
 date: '26-12-2018 00:00'
