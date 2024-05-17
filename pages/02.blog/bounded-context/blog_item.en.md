@@ -24,8 +24,8 @@ metadata:
     'og:type': article
     'og:title': 'Bounded Context | otherCode'
     'og:description': 'A bounded context is a logical division where a business problem and its solution are fully defined.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -34,9 +34,9 @@ metadata:
     'twitter:description': 'A bounded context is a logical division where a business problem and its solution are fully defined.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.webp'
     'article:published_time': '2020-04-19T15:34:00+10:00'
-    'article:modified_time': '2024-05-17T18:51:19+10:00'
+    'article:modified_time': '2024-05-17T18:51:37+10:00'
     'article:author': otherCode
     keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
 date: '18-04-2020 15:34'
@@ -46,7 +46,7 @@ aura:
         keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
     pagetype: article
     description: 'A bounded context is a logical division where a business problem and its solution are fully defined.'
-    image: featured.jpg
+    image: featured.webp
 ---
 
 A critical aspect when implementing DDD is the correct definition of the Bounded Context (_Contextos Acotados_ in Spanish). This will allow us, in turn, to define the aggregates and other elements of our system. Ubiquitous Language plays a decisive role in defining each of our bounded contexts.
