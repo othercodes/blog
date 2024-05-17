@@ -30,7 +30,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
     'article:published_time': '2018-12-08T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:15:27+10:00'
+    'article:modified_time': '2024-05-17T20:15:42+10:00'
     'article:author': otherCode
     keywords: 'Installation, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
 date: '08-12-2018 00:00'
@@ -46,7 +46,7 @@ aura:
     pagetype: article
     image: featured.jpeg
     description: 'Install PHP 5.6, 7.0, 7.1 and 7.2 on CentOS/RHEL 7 using Remi, EPEL and SCL repositories.'
-media_order: 'featured.jpeg,featured.webp'
+media_order: 'featured.webp,featured.jpeg'
 ---
 
 Installing the latest versions of PHP on CentOS/RHEL may not be as easy as it seems since you have to perform certain previous steps. Additionally, each of these versions has a somewhat peculiar installation directory. In this article we will cover all the steps for installing and using PHP versions 5.6, 7.0, 7.1 and 7.2.
