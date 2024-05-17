@@ -34,7 +34,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
     'article:published_time': '2019-12-16T17:53:00+10:00'
-    'article:modified_time': '2024-05-17T20:00:25+10:00'
+    'article:modified_time': '2024-05-17T20:00:36+10:00'
     'article:author': otherCode
     keywords: 'rest, arquitectura rest, restircciones, recursos, recurso, metodos, codigo de estado'
 date: '16-12-2019 17:53'
