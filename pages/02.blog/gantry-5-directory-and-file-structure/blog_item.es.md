@@ -11,7 +11,7 @@ taxonomy:
         - 'desarrollo web'
         - 'diseño web'
         - 'gantry 5'
-media_order: 'discover_tpl.webp,featured.webp,style-editor-cfg-file-example.webp'
+media_order: 'discover_tpl.webp,style-editor-cfg-file-example.webp,featured.webp'
 metadata:
     description: 'En este articulo conoceremos la estructura de ficheros de nuestra plantilla y prenderemos para que sirven cada uno de los diferentes archivos de configuración.'
     'og:url': 'https://othercode.io/es/blog/gantry-5-estructura-de-directorios-y-archivos'
@@ -30,7 +30,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:48:19+10:00'
+    'article:modified_time': '2024-05-17T20:49:37+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, joomla, desarrollo de plantillas joomla, plantillas gantry 5, personalizacion gantry 5, renombrar plantilla gantry 5'
 image:
