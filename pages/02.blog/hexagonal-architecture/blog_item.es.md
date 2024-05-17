@@ -4,7 +4,7 @@ twitterenable: true
 twittercardoptions: summary
 articleenabled: false
 facebookenable: true
-media_order: featured.jpg
+media_order: 'featured.webp,hexagonal-architecture-layers.webp'
 image:
     summary:
         enabled: '1'
@@ -27,8 +27,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
-    'article:published_time': '2024-05-17T21:28:17+10:00'
-    'article:modified_time': '2024-05-17T21:28:17+10:00'
+    'article:published_time': '2024-05-17T21:28:43+10:00'
+    'article:modified_time': '2024-05-17T21:29:00+10:00'
     'article:author': otherCode
     keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
