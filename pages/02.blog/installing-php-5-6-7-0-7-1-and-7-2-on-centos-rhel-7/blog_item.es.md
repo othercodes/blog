@@ -36,7 +36,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
     'article:published_time': '2018-12-08T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:44:32+10:00'
+    'article:modified_time': '2024-05-17T20:16:09+10:00'
     'article:author': otherCode
     keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
 date: '08-12-2018 00:00'
