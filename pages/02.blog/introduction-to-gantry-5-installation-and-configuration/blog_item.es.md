@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.webp'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:35:46+10:00'
+    'article:modified_time': '2024-05-17T20:36:01+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
 slug: introducción-a-gantry-5-instalación-y-configuración
@@ -101,7 +101,7 @@ Un Preset es un **Outline** preconfigurado, con ellos podemos cargar variantes e
 
 Ahora que conocemos los conceptos básicos de Gantry 5 vamos a instalarlo para poder acceder a su panel de administración.La instalación es muy sencilla, consta de un componente base (Gantry 5 en si) y de la o las plantillas que usaremos en nuestra web. Para instalarlo solo tenemos que ir a la página gantry.org/downloads y descargar el paquete **Gantry 5 Component** y una de las dos plantillas **Helium Theme** o **Hydrogen Theme** para Joomla 3.4+.
 
- ![gantry5-de-0-a-ninja-002-downloading](gantry5-de-0-a-ninja-002-downloading.png "gantry5-de-0-a-ninja-002-downloading")
+ ![gantry5-de-0-a-ninja-002-downloading](gantry5-de-0-a-ninja-002-downloading.webp "gantry5-de-0-a-ninja-002-downloading")
 
 Una vez descargados accederemos a **Extensiones > Gestionar > Instalar Subir archivo del paquete [Pestaña]** y subiremos los paquetes descargados anteriormente. Podemos usar cualquiera de los métodos de instalación de Joomla. Yo usaré la instalación vía URL.
 
@@ -121,35 +121,35 @@ La sección **Styles** se divide en tres partes, **selector de presets, configur
 
 1. Selector de Presets
 
-![gantry5-de-0-a-ninja-003-style-selector](gantry5-de-0-a-ninja-003-style-selector.png "gantry5-de-0-a-ninja-003-style-selector")
+![gantry5-de-0-a-ninja-003-style-selector](gantry5-de-0-a-ninja-003-style-selector.webp "gantry5-de-0-a-ninja-003-style-selector")
 
 2. Configuración de estilos específicos de la plantilla
 
 Nos permite manipular que fuente usaremos en nuestra web, su color, el color de fondo de la web y de cada zona o sección de esta. Todos estos controles son configurables y podemos añadir más o eliminar los que no nos gusten a voluntad.
 
-![gantry5-de-0-a-ninja-004-core-styles](gantry5-de-0-a-ninja-004-core-styles.png "gantry5-de-0-a-ninja-004-core-styles")
+![gantry5-de-0-a-ninja-004-core-styles](gantry5-de-0-a-ninja-004-core-styles.webp "gantry5-de-0-a-ninja-004-core-styles")
 
 3. Configuración de estilos
 
 Aquí nos deja configurar los rangos para las media queries, es decir, en qué punto nuestra web aplicará los estilos propios de móvil, tablet, portátil, pc de sobremesa, etc. Además, esta sección nos da la posibilidad de controlar las animaciones de los elementos del menú desplegable "dropdown" de nuestra página.
 
-![gantry5-de-0-a-ninja-005-configuration-styles](gantry5-de-0-a-ninja-005-configuration-styles.png "gantry5-de-0-a-ninja-005-configuration-styles")
+![gantry5-de-0-a-ninja-005-configuration-styles](gantry5-de-0-a-ninja-005-configuration-styles.webp "gantry5-de-0-a-ninja-005-configuration-styles")
 
 #### Particle Defaults
 
 En esta sección podemos editar la configuración por defecto de todas las partículas de nuestra plantilla. Sólo está disponible en el outline Base Outline, y es útil cuando tienes que cambiar la partícula branding o configurar las redes sociales. Estas dos partículas se pueden usar muchas veces a lo largo de varios Outlines y resulta bastante molesto tener que reconfigurar los mismos datos en varios sitios una y otra vez.
 
-![gantry5-de-0-a-ninja-006-particle-defaults](gantry5-de-0-a-ninja-006-particle-defaults.png "gantry5-de-0-a-ninja-006-particle-defaults")
+![gantry5-de-0-a-ninja-006-particle-defaults](gantry5-de-0-a-ninja-006-particle-defaults.webp "gantry5-de-0-a-ninja-006-particle-defaults")
 
 #### Page Settings
 
 En este apartado nos permite configurar los parámetros del Outline, es decir, podremos añadir recursos css/js, cambiar el favicon, el touch icon, añadir metatags customizadas como, por ejemplo, las tag de Open Graph de Facebook o las Twitter Cards. También podremos manipular las clases css y el ID de nuestra etiqueta body. 
 
-![gantry5-de-0-a-ninja-007-page-settings](gantry5-de-0-a-ninja-007-page-settings.png "gantry5-de-0-a-ninja-007-page-settings")
+![gantry5-de-0-a-ninja-007-page-settings](gantry5-de-0-a-ninja-007-page-settings.webp "gantry5-de-0-a-ninja-007-page-settings")
 
 Además, es en esta sección donde se encuentran los Átomos, un tipo de partícula tremendamente útil, qué, como ya comenté antes, nos permite manipular y gestionar contenido css/js.
 
-![gantry5-de-0-a-ninja-008-atoms](gantry5-de-0-a-ninja-008-atoms.png "gantry5-de-0-a-ninja-008-atoms")
+![gantry5-de-0-a-ninja-008-atoms](gantry5-de-0-a-ninja-008-atoms.webp "gantry5-de-0-a-ninja-008-atoms")
 
 #### Layout Manager
 
@@ -163,7 +163,7 @@ En el lado izquierdo se encuentra una lista de todas las partículas disponibles
 
 En esta zona podemos asignar qué outline se muestra en cada uno de los enlaces de nuestra web, por ejemplo, podemos asignar un outline llamado Home en la página de Inicio, otro llamado Blog para nuestro blog y otro diferente a las demás páginas de nuestra web. 
 
-![gantry5-de-0-a-ninja-009-asignaciones](gantry5-de-0-a-ninja-009-asignaciones.png "gantry5-de-0-a-ninja-009-asignaciones")
+![gantry5-de-0-a-ninja-009-asignaciones](gantry5-de-0-a-ninja-009-asignaciones.webp "gantry5-de-0-a-ninja-009-asignaciones")
 
 Para asignar solo debemos cargar el outline que deseamos con el selector superior izquierdo y acceder a esta sección, donde se nos mostrarán todos los menús que tengamos creados en nuestro CMS. Ahora solo tenemos que activar el outline para los elementos de los menús que deseemos.
 
@@ -171,20 +171,20 @@ Para asignar solo debemos cargar el outline que deseamos con el selector superio
 
 Desde el editor de menú podemos personalizar su aspecto y colocar los diferentes elementos de este a nuestro gusto.
 
-![gantry5-de-0-a-ninja-010-menu-editor](gantry5-de-0-a-ninja-010-menu-editor.png "gantry5-de-0-a-ninja-010-menu-editor")
+![gantry5-de-0-a-ninja-010-menu-editor](gantry5-de-0-a-ninja-010-menu-editor.webp "gantry5-de-0-a-ninja-010-menu-editor")
 
 Por ejemplo, podemos cambiar el orden en que se muestran o el nombre de cada elemento, además podemos añadir clases css personalizadas o añadir una imágen o un icono a nuestro elemento del menú.
 
-![gantry5-de-0-a-ninja-011-menu-editor-item](gantry5-de-0-a-ninja-011-menu-editor-item.png "gantry5-de-0-a-ninja-011-menu-editor-item")
+![gantry5-de-0-a-ninja-011-menu-editor-item](gantry5-de-0-a-ninja-011-menu-editor-item.webp "gantry5-de-0-a-ninja-011-menu-editor-item")
 
 ### Outlines
 
 El gestor de Outlines nos permite añadir, eliminar, duplicar, etc. los outlines de nuestra planilla.
 
-![gantry5-de-0-a-ninja-012-outlines](gantry5-de-0-a-ninja-012-outlines.png "gantry5-de-0-a-ninja-012-outlines")
+![gantry5-de-0-a-ninja-012-outlines](gantry5-de-0-a-ninja-012-outlines.webp "gantry5-de-0-a-ninja-012-outlines")
 
 A la hora de crear un outline debemos elegir desde donde se creará, es decir, de quien heredará este nuevo outline, si de otro **outline** o de un **preset**. 
 
-![gantry5-de-0-a-ninja-013-new-outline](gantry5-de-0-a-ninja-013-new-outline.png "gantry5-de-0-a-ninja-013-new-outline")
+![gantry5-de-0-a-ninja-013-new-outline](gantry5-de-0-a-ninja-013-new-outline.webp "gantry5-de-0-a-ninja-013-new-outline")
 
 Perfecto, ahora que ya hemos instalado Gantry 5 con la plantilla Hydrogen y que ya conocemos a groso modo la zona de administración, es hora de ponernos a desarrollar nuestro sitio web. En futuros artículos iré desarrollando paso a paso un blog personal, donde usaremos **partículas**, **átomos** y varios **outlines**.
