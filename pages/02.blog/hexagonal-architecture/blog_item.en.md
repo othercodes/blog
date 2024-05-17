@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-16T22:51:53+10:00'
-    'article:modified_time': '2024-05-16T22:52:21+10:00'
+    'article:published_time': '2024-05-16T22:56:54+10:00'
+    'article:modified_time': '2024-05-17T21:26:21+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -44,7 +44,7 @@ aura:
     pagetype: article
     image: featured.jpg
     description: 'Explore the flexible Hexagonal Architecture: enhance system scalability, maintainability, and component interaction for optimized software solutions.'
-media_order: 'featured.jpg,hexagonal-architecture-complexity.png,hexagonal-architecture-layers.png'
+media_order: 'featured.jpg,hexagonal-architecture-layers.png,hexagonal-architecture-layers.webp,featured.webp'
 ---
 
 The Hexagonal Architecture, also known as Ports and Adapters Architecture, divides a system into multiple [loosely-coupled](https://en.wikipedia.org/wiki/Loose_coupling) and interchangeable components. Unlike traditional layered architecture, Hexagonal Architecture emphasizes a more flexible and modular approach.
