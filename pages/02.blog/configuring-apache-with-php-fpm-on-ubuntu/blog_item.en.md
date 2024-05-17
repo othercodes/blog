@@ -23,8 +23,8 @@ metadata:
     'og:type': article
     'og:title': 'Configuring Apache with PHP-FPM on Ubuntu | otherCode'
     'og:description': 'Installation and configuration of PHP-FPM with Apache2 on Ubuntu.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -33,9 +33,9 @@ metadata:
     'twitter:description': 'Installation and configuration of PHP-FPM with Apache2 on Ubuntu.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-ubuntu/featured.webp'
     'article:published_time': '2019-12-14T10:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:04:37+10:00'
+    'article:modified_time': '2024-05-17T20:04:43+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, installation and configuration'
 date: '14-12-2019 10:00'
@@ -45,7 +45,7 @@ aura:
         keywords: 'php, fpm, fastcgi, apache, apache2, ubuntu, installation and configuration'
     pagetype: article
     description: 'Installation and configuration of PHP-FPM with Apache2 on Ubuntu.'
-    image: featured.jpg
+    image: featured.webp
 media_order: featured.webp
 ---
 
