@@ -25,8 +25,8 @@ metadata:
     'og:type': article
     'og:title': 'Static Analysis of PHP Code with Phan | otherCode'
     'og:description': 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -35,16 +35,16 @@ metadata:
     'twitter:description': 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.webp'
     'article:published_time': '2019-01-07T12:29:00+10:00'
-    'article:modified_time': '2024-05-17T20:08:35+10:00'
+    'article:modified_time': '2024-05-17T20:08:45+10:00'
     'article:author': otherCode
     keywords: 'phan, static analysis, php7, static code analysis, php issues'
 aura:
     metadata:
         keywords: 'phan, static analysis, php7, static code analysis, php issues'
     pagetype: article
-    image: featured.jpeg
+    image: featured.webp
     description: 'Installation and use of the Phan code static analysis tool. Anticipate any incident by installing Phan and analyzing your code.'
 media_order: 'featured.webp,featured.jpeg'
 ---
