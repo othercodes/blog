@@ -18,7 +18,7 @@ taxonomy:
         - ddd
 date: '06-04-2020 16:00'
 publish_date: '07-04-2020 16:00'
-media_order: 'featured.jpg,ddd-lenguaje-ubicuo-01.png,ddd-lenguaje-ubicuo-02.png'
+media_order: 'featured.webp,ddd-lenguaje-ubicuo-01.webp,ddd-lenguaje-ubicuo-02.webp'
 metadata:
     description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     'og:url': 'https://othercode.io/blog/ubiquitous-language'
@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:49:14+10:00'
+    'article:modified_time': '2024-05-17T19:01:43+10:00'
     'article:author': otherCode
     keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
 aura:
@@ -76,13 +76,13 @@ As we see, the client has used certain terms specific to his business, such as _
 
 Let's see an example of how to define these entities using UML:
 
-![DDD Ubiquitous Language UML Sample 01](ddd-lenguaje-ubicuo-01.png "DDD Ubiquitous Language UML Sample 01")
+![DDD Ubiquitous Language UML Sample 01](ddd-lenguaje-ubicuo-01.webp "DDD Ubiquitous Language UML Sample 01")
 
 We continue with the conversation, "_What are the characteristics of a fleet?_" we ask, to which the client responds, "_Each fleet is identified by a unique reference, it also has a name and an associated base._". We keep asking, "_What format should the identifier be? and what is a 'base'?_". The client tells us "_The fleet and vehicle identifier is a universal unique identifier. The base is the reference of the physical location where the fleet is parked, it is also a uuid._".
 
 Let's update the previous scheme:
 
-![DDD Ubiquitous Language UML Sample 02](ddd-lenguaje-ubicuo-02.png "DDD Ubiquitous Language UML Sample 02")
+![DDD Ubiquitous Language UML Sample 02](ddd-lenguaje-ubicuo-02.webp "DDD Ubiquitous Language UML Sample 02")
 
 We will continue the conversation until both the client and we are satisfied with the initial model of the solution.
 
