@@ -19,8 +19,8 @@ metadata:
     'og:type': article
     'og:title': 'Installing PHP 7.3, 7.4, 8.0 on Ubuntu | otherCode'
     'og:description': 'Installing PHP 7.1, 7.2 and 7.4 on Ubuntu using ondrej PPA and configuration with update-alternatives.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -29,9 +29,9 @@ metadata:
     'twitter:description': 'Installing PHP 7.1, 7.2 and 7.4 on Ubuntu using ondrej PPA and configuration with update-alternatives.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.jpeg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-7-3-7-4-8-0-on-ubuntu/featured.webp'
     'article:published_time': '2018-12-31T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:12:01+10:00'
+    'article:modified_time': '2024-05-17T20:12:08+10:00'
     'article:author': otherCode
     keywords: 'Installation, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
 image:
@@ -43,7 +43,7 @@ aura:
     metadata:
         keywords: 'Installation, PHP, PHP7.1, PHP7.2, PHP7, 3, Ubuntu, ondrej'
     pagetype: article
-    image: featured.jpeg
+    image: featured.webp
     description: 'Installing PHP 7.1, 7.2 and 7.4 on Ubuntu using ondrej PPA and configuration with update-alternatives.'
 media_order: 'featured.webp,featured.jpeg,phpswitch.gif'
 ---
