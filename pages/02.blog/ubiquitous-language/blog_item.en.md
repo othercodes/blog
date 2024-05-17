@@ -25,8 +25,8 @@ metadata:
     'og:type': article
     'og:title': 'Ubiquitous Language | otherCode'
     'og:description': 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -35,16 +35,16 @@ metadata:
     'twitter:description': 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-17T19:01:43+10:00'
+    'article:modified_time': '2024-05-17T19:02:05+10:00'
     'article:author': otherCode
     keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
 aura:
     metadata:
         keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'The ubiquitous language defines all the concepts of our business, it will help us communicate correctly and above all, it will help us to correctly model the domain.'
 ---
 
