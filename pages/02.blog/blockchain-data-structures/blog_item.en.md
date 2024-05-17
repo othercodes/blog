@@ -15,7 +15,7 @@ content:
     show_date: false
     pagination: true
     url_taxonomy_filters: true
-media_order: 'featured.jpg,blockchain.png,linked-lists.png'
+media_order: 'featured.jpg,blockchain.png,linked-lists.png,featured.webp,blockchain.webp,linked-lists.webp'
 taxonomy:
     category:
         - blog
@@ -35,8 +35,8 @@ metadata:
     'og:type': article
     'og:title': 'Blockchain Data Structures | otherCode'
     'og:description': 'Analysis of blockchain as a data structure, characteristics and applications.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -45,9 +45,9 @@ metadata:
     'twitter:description': 'Analysis of blockchain as a data structure, characteristics and applications.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:36:20+10:00'
+    'article:modified_time': '2024-05-17T18:47:23+10:00'
     'article:author': otherCode
     keywords: 'blockchain, data structures, blockchain php'
 twitterenable: true
@@ -61,7 +61,7 @@ aura:
         keywords: 'blockchain, data structures, blockchain php'
     pagetype: article
     description: 'Analysis of blockchain as a data structure, characteristics and applications.'
-    image: featured.jpg
+    image: featured.webp
 ---
 
 When we hear the word _blockchain_, we automatically think of Bitcoin or Cryptocurrencies, however _blockchain_ is, no more and no less, a type of **data structure**.
