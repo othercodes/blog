@@ -31,7 +31,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:42:46+10:00'
+    'article:modified_time': '2024-05-17T20:44:37+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
 image:
@@ -39,7 +39,7 @@ image:
         enabled: '1'
     text:
         enabled: '1'
-media_order: 'featured.webp,discover_tpl.webp,style-editor-cfg-file-example.webp'
+media_order: 'discover_tpl.webp,featured.webp,style-editor-cfg-file-example.webp'
 aura:
     metadata:
         keywords: 'gantry 5, gantry5, templates, joomla, joomla template development, gantry 5 templates, gantry 5 customization, rename gantry 5 template'
