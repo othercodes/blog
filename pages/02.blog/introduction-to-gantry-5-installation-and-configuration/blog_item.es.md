@@ -11,7 +11,7 @@ taxonomy:
         - 'desarrollo web'
         - 'diseño web'
         - 'gantry 5'
-media_order: 'featured.png,gantr5-hydrogen-installation.gif,gantry5-de-0-a-ninja-002-downloading.png,gantry5-de-0-a-ninja-003-style-selector.png,gantry5-de-0-a-ninja-004-core-styles.png,gantry5-de-0-a-ninja-005-configuration-styles.png,gantry5-de-0-a-ninja-006-particle-defaults.png,gantry5-de-0-a-ninja-007-page-settings.png,gantry5-de-0-a-ninja-009-asignaciones.png,gantry5-de-0-a-ninja-010-menu-editor.png,gantry5-de-0-a-ninja-011-menu-editor-item.png,gantry5-de-0-a-ninja-012-outlines.png,gantry5-de-0-a-ninja-013-new-outline.png,gantry5-layout-manager-sample.gif,gantry5-de-0-a-ninja-008-atoms.png'
+media_order: 'gantr5-hydrogen-installation.gif,featured.webp,gantry5-layout-manager-sample.gif,gantry5-de-0-a-ninja-012-outlines.webp,gantry5-de-0-a-ninja-011-menu-editor-item.webp,gantry5-de-0-a-ninja-006-particle-defaults.webp,gantry5-de-0-a-ninja-004-core-styles.webp,gantry5-de-0-a-ninja-002-downloading.webp,gantry5-de-0-a-ninja-013-new-outline.webp,gantry5-de-0-a-ninja-010-menu-editor.webp,gantry5-de-0-a-ninja-009-asignaciones.webp,gantry5-de-0-a-ninja-005-configuration-styles.webp,gantry5-de-0-a-ninja-003-style-selector.webp,gantry5-de-0-a-ninja-007-page-settings.webp,gantry5-de-0-a-ninja-008-atoms.webp'
 image:
     summary:
         enabled: '1'
@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.webp'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:33:17+10:00'
+    'article:modified_time': '2024-05-17T20:35:00+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, plantillas gantry 5, configuracion gantry 5, introduccion gantry 5'
 slug: introducción-a-gantry-5-instalación-y-configuración
