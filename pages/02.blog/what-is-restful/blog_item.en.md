@@ -11,7 +11,7 @@ taxonomy:
         - 'software architecture'
         - http
         - rest
-media_order: featured.jpg
+media_order: 'featured.webp,featured.jpg'
 image:
     summary:
         enabled: '1'
@@ -35,7 +35,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
     'article:published_time': '2019-12-16T17:53:00+10:00'
-    'article:modified_time': '2024-05-11T11:51:35+10:00'
+    'article:modified_time': '2024-05-17T20:00:46+10:00'
     'article:author': otherCode
     keywords: 'rest, rest architecture, restrictions, resources, resource, methods, state code'
 date: '16-12-2019 17:53'
