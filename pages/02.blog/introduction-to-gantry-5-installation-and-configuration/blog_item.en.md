@@ -34,7 +34,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/introduction-to-gantry-5-installation-and-configuration/featured.webp'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:28:51+10:00'
+    'article:modified_time': '2024-05-17T20:29:12+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, template development, gantry 5 templates, gantry 5 configuration, gantry 5 introduction'
 date: '20-08-2013 21:23'
@@ -100,7 +100,7 @@ A Preset is a preconfigured **Outline**, with them we can load entire variants o
 
 Now that we know the basic concepts of Gantry 5, we are going to install it to be able to access its administration panel. The installation is very simple, it consists of a base component (Gantry 5 itself) and the template or templates that we will use on our website. To install it we just have to go to the page gantry.org/downloads and download the package **Gantry 5 Component** and one of the two templates **Helium Theme** or **Hydrogen Theme** for Joomla 3.4+.
 
-![gantry5-de-0-a-ninja-002-downloading](gantry5-de-0-a-ninja-002-downloading.png "gantry5-de-0-a-ninja-002-downloading")
+![gantry5-de-0-a-ninja-002-downloading](gantry5-de-0-a-ninja-002-downloading.webp "gantry5-de-0-a-ninja-002-downloading")
 
 Once downloaded we will access **Extensions > Manage > Install Upload Package File [Tab]** and we will upload the previously downloaded packages. We can use any of the Joomla installation methods. I will use the installation via URL.
 
@@ -120,35 +120,35 @@ The **Styles** section is divided into three parts, **preset selector, template 
 
 1. Presets Selector
 
-![gantry5-de-0-a-ninja-003-style-selector](gantry5-de-0-a-ninja-003-style-selector.png "gantry5-de-0-a-ninja-003-style-selector")
+![gantry5-de-0-a-ninja-003-style-selector](gantry5-de-0-a-ninja-003-style-selector.webp "gantry5-de-0-a-ninja-003-style-selector")
 
 2. Setting template-specific styles
 
 It allows us to manipulate which font we will use on our website, its color, the background color of the website and each area or section of it. All of these controls are configurable and we can add more or eliminate those we don't like at will.
 
-![gantry5-de-0-a-ninja-004-core-styles](gantry5-de-0-a-ninja-004-core-styles.png "gantry5-de-0-a-ninja-004-core -styles")
+![gantry5-de-0-a-ninja-004-core-styles](gantry5-de-0-a-ninja-004-core-styles.webp "gantry5-de-0-a-ninja-004-core -styles")
 
 3. Style settings
 
 Here it lets us configure the ranges for the media queries, that is, at what point our website will apply the styles of mobile, tablet, laptop, desktop PC, etc. Additionally, this section gives us the ability to control the animations of the dropdown menu items on our page.
 
-![gantry5-de-0-a-ninja-005-configuration-styles](gantry5-de-0-a-ninja-005-configuration-styles.png "gantry5-de-0-a-ninja-005-configuration -styles")
+![gantry5-de-0-a-ninja-005-configuration-styles](gantry5-de-0-a-ninja-005-configuration-styles.webp "gantry5-de-0-a-ninja-005-configuration -styles")
 
 #### Particle Defaults
 
 In this section we can edit the default configuration of all the particles in our template. It is only available in the Base Outline outline, and is useful when you have to change the branding particle or configure social networks. These two particles can be used many times across multiple Outlines and it is quite annoying to have to reconfigure the same data in multiple places over and over again.
 
-![gantry5-de-0-a-ninja-006-particle-defaults](gantry5-de-0-a-ninja-006-particle-defaults.png "gantry5-de-0-a-ninja-006-particle -defaults")
+![gantry5-de-0-a-ninja-006-particle-defaults](gantry5-de-0-a-ninja-006-particle-defaults.webp "gantry5-de-0-a-ninja-006-particle -defaults")
 
 #### Page Settings
 
 In this section it allows us to configure the Outline parameters, that is, we can add CSS/JS resources, change the favicon, the touch icon, add custom metatags such as, for example, Facebook's Open Graph tags or Twitter Cards. We can also manipulate the CSS classes and the ID of our body tag.
 
-![gantry5-de-0-a-ninja-007-page-settings](gantry5-de-0-a-ninja-007-page-settings.png "gantry5-de-0-a-ninja-007-page -settings")
+![gantry5-de-0-a-ninja-007-page-settings](gantry5-de-0-a-ninja-007-page-settings.webp "gantry5-de-0-a-ninja-007-page -settings")
 
 Furthermore, it is in this section where the Atoms are found, a tremendously useful type of particle, which, as I mentioned before, allows us to manipulate and manage CSS/JS content.
 
-![gantry5-de-0-a-ninja-008-atoms](gantry5-de-0-a-ninja-008-atoms.png "gantry5-de-0-a-ninja-008-atoms")
+![gantry5-de-0-a-ninja-008-atoms](gantry5-de-0-a-ninja-008-atoms.webp "gantry5-de-0-a-ninja-008-atoms")
 
 #### Layout Manager
 
@@ -162,7 +162,7 @@ On the left side is a list of all the particles available in our template. To us
 
 In this area we can assign which outline is displayed in each of the links on our website, for example, we can assign an outline called Home on the Home page, another one called Blog for our blog and a different one to the other pages of our website .
 
-![gantry5-de-0-a-ninja-009-asignaciones](gantry5-de-0-a-ninja-009-asignaciones.png "gantry5-de-0-a-ninja-009-asignaciones")
+![gantry5-de-0-a-ninja-009-asignaciones](gantry5-de-0-a-ninja-009-asignaciones.webp "gantry5-de-0-a-ninja-009-asignaciones")
 
 To assign, we only have to load the outline we want with the upper left selector and access this section, where all the menus that we have created in our CMS will be shown. Now we just have to activate the outline for the menu items we want.
 
@@ -170,20 +170,20 @@ To assign, we only have to load the outline we want with the upper left selector
 
 From the menu editor we can customize its appearance and place its different elements to our liking.
 
-![gantry5-de-0-a-ninja-010-menu-editor](gantry5-de-0-a-ninja-010-menu-editor.png "gantry5-de-0-a-ninja-010-menu -editor")
+![gantry5-de-0-a-ninja-010-menu-editor](gantry5-de-0-a-ninja-010-menu-editor.webp "gantry5-de-0-a-ninja-010-menu -editor")
 
 For example, we can change the order in which they are displayed or the name of each element, we can also add custom CSS classes or add an image or an icon to our menu item.
 
-![gantry5-de-0-a-ninja-011-menu-editor-item](gantry5-de-0-a-ninja-011-menu-editor-item.png "gantry5-de-0-a-ninja -011-menu-editor-item")
+![gantry5-de-0-a-ninja-011-menu-editor-item](gantry5-de-0-a-ninja-011-menu-editor-item.webp "gantry5-de-0-a-ninja -011-menu-editor-item")
 
 ### Outlines
 
 The Outlines manager allows us to add, delete, duplicate, etc. the outlines of our spreadsheet.
 
-![gantry5-de-0-a-ninja-012-outlines](gantry5-de-0-a-ninja-012-outlines.png "gantry5-de-0-a-ninja-012-outlines")
+![gantry5-de-0-a-ninja-012-outlines](gantry5-de-0-a-ninja-012-outlines.webp "gantry5-de-0-a-ninja-012-outlines")
 
 When creating an outline we must choose where it will be created from, that is, from whom this new outline will inherit, whether from another **outline** or from a **preset**.
 
-![gantry5-de-0-a-ninja-013-new-outline](gantry5-de-0-a-ninja-013-new-outline.png "gantry5-de-0-a-ninja-013-new -outline")
+![gantry5-de-0-a-ninja-013-new-outline](gantry5-de-0-a-ninja-013-new-outline.webp "gantry5-de-0-a-ninja-013-new -outline")
 
 Perfect, now that we have installed Gantry 5 with the Hydrogen template and that we already know the administration area roughly, it is time to start developing our website. In future articles I will develop a personal blog step by step, where we will use **particles**, **atoms** and various **outlines**.
