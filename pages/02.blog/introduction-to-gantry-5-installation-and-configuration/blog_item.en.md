@@ -29,7 +29,7 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'article:published_time': '2013-08-20T21:23:00+10:00'
-    'article:modified_time': '2024-05-17T20:26:46+10:00'
+    'article:modified_time': '2024-05-17T20:27:34+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, templates, template development, gantry 5 templates, gantry 5 configuration, gantry 5 introduction'
 date: '20-08-2013 21:23'
@@ -40,7 +40,7 @@ aura:
     pagetype: article
     image: featured.png
     description: 'Introduction to Gantry 5, installation, configuration and customization of templates.'
-media_order: 'gantr5-hydrogen-installation.gif,gantry5-layout-manager-sample.gif,gantry5-de-0-a-ninja-012-outlines.webp,gantry5-de-0-a-ninja-011-menu-editor-item.webp,gantry5-de-0-a-ninja-006-particle-defaults.webp,gantry5-de-0-a-ninja-004-core-styles.webp,gantry5-de-0-a-ninja-002-downloading.webp,gantry5-de-0-a-ninja-013-new-outline.webp,gantry5-de-0-a-ninja-010-menu-editor.webp,gantry5-de-0-a-ninja-009-asignaciones.webp,gantry5-de-0-a-ninja-005-configuration-styles.webp,gantry5-de-0-a-ninja-003-style-selector.webp,featured.webp'
+media_order: 'featured.webp,gantr5-hydrogen-installation.gif,gantry5-layout-manager-sample.gif,gantry5-de-0-a-ninja-012-outlines.webp,gantry5-de-0-a-ninja-011-menu-editor-item.webp,gantry5-de-0-a-ninja-006-particle-defaults.webp,gantry5-de-0-a-ninja-004-core-styles.webp,gantry5-de-0-a-ninja-002-downloading.webp,gantry5-de-0-a-ninja-013-new-outline.webp,gantry5-de-0-a-ninja-010-menu-editor.webp,gantry5-de-0-a-ninja-009-asignaciones.webp,gantry5-de-0-a-ninja-005-configuration-styles.webp,gantry5-de-0-a-ninja-003-style-selector.webp,gantry5-de-0-a-ninja-007-page-settings.webp,gantry5-de-0-a-ninja-008-atoms.webp'
 ---
 
 Gantry? What is Gantry? Well, Gantry is a template development framework for Joomla and Wordpress. This framework helps us develop and manipulate the design of our website very quickly. Gantry is developed by RocketTheme and is currently on version 5.4.24.
