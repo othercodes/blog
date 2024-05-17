@@ -25,8 +25,8 @@ metadata:
     'og:type': article
     'og:title': 'Lenguaje Ubicuo | otherCode'
     'og:description': 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -35,9 +35,9 @@ metadata:
     'twitter:description': 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:49:40+10:00'
+    'article:modified_time': '2024-05-17T19:02:36+10:00'
     'article:author': otherCode
     keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
 slug: lenguaje-ubicuo
@@ -45,7 +45,7 @@ aura:
     metadata:
         keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
 ---
 
@@ -77,13 +77,13 @@ Como vemos, el cliente ha usado ciertos términos propios de su negocio, como po
 
 Veamos un ejemplo de como definir estas entiades usando UML:
 
-![ddd-lenguaje-ubicuo-01](ddd-lenguaje-ubicuo-01.png "ddd-lenguaje-ubicuo-01")
+![ddd-lenguaje-ubicuo-01](ddd-lenguaje-ubicuo-01.webp "ddd-lenguaje-ubicuo-01")
 
 Continuamos con la conversación, "_¿Cuáles son las características de una flota?_" le preguntamos, a lo que el cliente responde, "_Cada flota está identificada por una referencia única, además tiene un nombre y una base asociada._". Seguimos preguntando, "_¿Qué formato debería tener el identificador? y ¿qué es una 'base'?_". El cliente nos comenta "_El identificador de las flotas y de los vehículos es un identificador único universal. La base es la referencia del emplazamiento físico donde la flota está estacionada, también es un uuid._".
 
 Actualicemos el esquema anterior:
 
-![ddd-lenguaje-ubicuo-02](ddd-lenguaje-ubicuo-02.png "ddd-lenguaje-ubicuo-02")
+![ddd-lenguaje-ubicuo-02](ddd-lenguaje-ubicuo-02.webp "ddd-lenguaje-ubicuo-02")
 
 Continuaremos con la conversación hasta que, tanto el cliente como nosotros, estemos satisfechos con el modelo inicial de la solución.
 
