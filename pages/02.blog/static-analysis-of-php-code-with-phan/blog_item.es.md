@@ -26,8 +26,8 @@ metadata:
     'og:type': article
     'og:title': 'Análisis Estático de Código PHP con Phan | otherCode'
     'og:description': 'Instalación y uso de la herramienta de análisis estático de código Phan. Anticipate a cualquier incidencia instalando Phan y analizando tu código.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -36,9 +36,9 @@ metadata:
     'twitter:description': 'Instalación y uso de la herramienta de análisis estático de código Phan. Anticipate a cualquier incidencia instalando Phan y analizando tu código.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.jpeg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/static-analysis-of-php-code-with-phan/featured.webp'
     'article:published_time': '2019-01-07T12:29:00+10:00'
-    'article:modified_time': '2024-05-11T11:48:43+10:00'
+    'article:modified_time': '2024-05-17T20:08:57+10:00'
     'article:author': otherCode
     keywords: 'phan, análisis estático, php7, análisis de código estático, incidencias php'
 slug: analisis-estático-de-codigo-php-con-phan
@@ -47,7 +47,7 @@ aura:
     metadata:
         keywords: 'phan, análisis estático, php7, análisis de código estático, incidencias php'
     pagetype: article
-    image: featured.jpeg
+    image: featured.webp
     description: 'Instalación y uso de la herramienta de análisis estático de código Phan. Anticipate a cualquier incidencia instalando Phan y analizando tu código.'
 ---
 
