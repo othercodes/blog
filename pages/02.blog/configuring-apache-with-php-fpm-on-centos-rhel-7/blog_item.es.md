@@ -18,7 +18,7 @@ image:
         enabled: '1'
     text:
         enabled: '1'
-media_order: 'php-fpm.webp,featured.webp'
+media_order: 'featured.webp,php-fpm.webp'
 date: '25-11-2019 12:37'
 publish_date: '25-11-2019 12:37'
 metadata:
@@ -39,7 +39,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.webp'
     'article:published_time': '2019-11-25T12:37:00+10:00'
-    'article:modified_time': '2024-05-17T19:57:38+10:00'
+    'article:modified_time': '2024-05-17T19:57:53+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, instalación y configuración'
 slug: configurando-apache-con-php-fpm-en-centos-rhel-7
