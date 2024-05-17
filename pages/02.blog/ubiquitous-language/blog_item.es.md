@@ -18,7 +18,7 @@ taxonomy:
         - ddd
 date: '06-04-2020 16:00'
 publish_date: '07-04-2020 16:00'
-media_order: 'featured.jpg,ddd-lenguaje-ubicuo-01.png,ddd-lenguaje-ubicuo-02.png'
+media_order: 'featured.webp,ddd-lenguaje-ubicuo-01.webp,ddd-lenguaje-ubicuo-02.webp'
 metadata:
     description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
     'og:url': 'https://othercode.io/es/blog/lenguaje-ubicuo'
@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-17T19:34:01+10:00'
+    'article:modified_time': '2024-05-17T19:34:20+10:00'
     'article:author': otherCode
     keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
 slug: lenguaje-ubicuo
