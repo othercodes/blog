@@ -26,8 +26,8 @@ metadata:
     'og:type': article
     'og:title': 'Configuring Apache with PHP-FPM on CentOS/RHEL 7 | otherCode'
     'og:description': 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -36,9 +36,9 @@ metadata:
     'twitter:description': 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/configuring-apache-with-php-fpm-on-centos-rhel-7/featured.webp'
     'article:published_time': '2019-11-25T12:37:00+10:00'
-    'article:modified_time': '2024-05-17T19:19:11+10:00'
+    'article:modified_time': '2024-05-17T19:19:21+10:00'
     'article:author': otherCode
     keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, installation and configuration'
 aura:
@@ -46,7 +46,7 @@ aura:
         keywords: 'php, fpm, fastcgi, apache, apache2, centos/rhel7, installation and configuration'
     pagetype: article
     description: 'Installation and configuration of PHP-FPM with Apache2 on CentOS/RHEL7.'
-    image: featured.jpg
+    image: featured.webp
 media_order: 'featured.webp,php-fpm.webp'
 ---
 
