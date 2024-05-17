@@ -16,8 +16,8 @@ metadata:
     'og:type': article
     'og:title': 'Arquitectura Hexagonal | otherCode'
     'og:description': 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -26,9 +26,9 @@ metadata:
     'twitter:description': 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.jpg'
-    'article:published_time': '2024-05-16T22:57:19+10:00'
-    'article:modified_time': '2024-05-17T21:27:08+10:00'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
+    'article:published_time': '2024-05-17T21:27:25+10:00'
+    'article:modified_time': '2024-05-17T21:27:25+10:00'
     'article:author': otherCode
     keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
 taxonomy:
@@ -44,7 +44,7 @@ aura:
     metadata:
         keywords: 'Arquitectura Hexagonal, Desarrollo de Software, Patrón de Diseño Flexible, Escalabilidad del Sistema, Mantenibilidad, Interacción de Componentes, Arquitectura en Capas, Soluciones de Software, Arquitectura Moderna, Regla de Dependencia'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'Explora la flexible Arquitectura Hexagonal: mejora la escalabilidad del sistema, su mantenimiento y la interacción de componentes para soluciones de software optimizadas.'
 ---
 
