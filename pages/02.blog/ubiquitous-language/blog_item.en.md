@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-17T19:30:03+10:00'
+    'article:modified_time': '2024-05-17T19:30:21+10:00'
     'article:author': otherCode
     keywords: 'ddd, ubiquitous language, ubiquitous language, domain, model domain.'
 aura:
