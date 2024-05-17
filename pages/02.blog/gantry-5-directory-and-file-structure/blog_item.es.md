@@ -18,19 +18,14 @@ metadata:
     'og:type': article
     'og:title': 'Gantry 5: Estructura de Directorios y Archivos | otherCode'
     'og:description': 'En este articulo conoceremos la estructura de ficheros de nuestra plantilla y prenderemos para que sirven cada uno de los diferentes archivos de configuración.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
-    'og:image:type': image/jpeg
-    'og:image:width': 800
-    'og:image:height': 350
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Gantry 5: Estructura de Directorios y Archivos | otherCode'
     'twitter:description': 'En este articulo conoceremos la estructura de ficheros de nuestra plantilla y prenderemos para que sirven cada uno de los diferentes archivos de configuración.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.jpeg'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:42:38+10:00'
+    'article:modified_time': '2024-05-17T20:43:20+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, joomla, desarrollo de plantillas joomla, plantillas gantry 5, personalizacion gantry 5, renombrar plantilla gantry 5'
 image:
