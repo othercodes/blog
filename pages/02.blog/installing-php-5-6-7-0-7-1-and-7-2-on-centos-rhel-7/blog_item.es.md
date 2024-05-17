@@ -24,8 +24,8 @@ metadata:
     'og:type': article
     'og:title': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 | otherCode'
     'og:description': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
-    'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -34,9 +34,9 @@ metadata:
     'twitter:description': 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.jpeg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/installing-php-5-6-7-0-7-1-and-7-2-on-centos-rhel-7/featured.webp'
     'article:published_time': '2018-12-08T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:16:09+10:00'
+    'article:modified_time': '2024-05-17T20:16:26+10:00'
     'article:author': otherCode
     keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
 date: '08-12-2018 00:00'
@@ -46,7 +46,7 @@ aura:
     metadata:
         keywords: 'Instalacion, CentOS7, RHEL7, PHP5.6, PHP7.0, PHP7.1, PHP7, 2, EPEL, Remi, SCL'
     pagetype: article
-    image: featured.jpeg
+    image: featured.webp
     description: 'Instalación de PHP 5.6, 7.0, 7.1 y 7.2 en CentOS/RHEL 7 usando repositorios Remi, EPEL y SCL. '
 ---
 
