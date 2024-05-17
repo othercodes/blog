@@ -22,8 +22,8 @@ metadata:
     'og:type': article
     'og:title': '¿Que es RESTful? | otherCode'
     'og:description': 'Introducción a la arquitectura rest, restricciones, recursos, métodos y códigos de estado.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -32,9 +32,9 @@ metadata:
     'twitter:description': 'Introducción a la arquitectura rest, restricciones, recursos, métodos y códigos de estado.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/what-is-restful/featured.webp'
     'article:published_time': '2019-12-16T17:53:00+10:00'
-    'article:modified_time': '2024-05-17T20:01:41+10:00'
+    'article:modified_time': '2024-05-17T20:01:50+10:00'
     'article:author': otherCode
     keywords: 'rest, arquitectura rest, restircciones, recursos, recurso, metodos, codigo de estado'
 date: '16-12-2019 17:53'
@@ -44,7 +44,7 @@ aura:
     metadata:
         keywords: 'rest, arquitectura rest, restircciones, recursos, recurso, metodos, codigo de estado'
     pagetype: article
-    image: featured.jpg
+    image: featured.webp
     description: 'Introducción a la arquitectura rest, restricciones, recursos, métodos y códigos de estado.'
 media_order: featured.webp
 ---
