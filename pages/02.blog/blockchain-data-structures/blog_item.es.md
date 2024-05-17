@@ -35,8 +35,8 @@ metadata:
     'og:type': article
     'og:title': 'Estructura de datos Blockchain | otherCode'
     'og:description': 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
-    'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
-    'og:image:type': image/jpeg
+    'og:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
+    'og:image:type': image/webp
     'og:image:width': 800
     'og:image:height': 350
     'og:author': otherCode
@@ -45,9 +45,9 @@ metadata:
     'twitter:description': 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.jpg'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-11T11:36:47+10:00'
+    'article:modified_time': '2024-05-17T18:47:34+10:00'
     'article:author': otherCode
     keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
 twitterenable: true
@@ -61,7 +61,7 @@ aura:
         keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
     pagetype: article
     description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
-    image: featured.jpg
+    image: featured.webp
 ---
 
 Cuando escuchamos la palabra _blockchain_, automáticamente pensamos en Bitcoin o en Cryptomonedas, sin embargo _blockchain_ o cadena de bloques es, ni mas ni menos, un tipo de **estructura de datos**.
