@@ -12,7 +12,7 @@ taxonomy:
         - 'domain-driven design'
         - ddd
         - 'design patterns'
-media_order: featured.jpg
+media_order: 'bounded-context.webp,featured.webp'
 image:
     summary:
         enabled: '1'
@@ -36,7 +36,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/bounded-context/featured.jpg'
     'article:published_time': '2020-04-19T15:34:00+10:00'
-    'article:modified_time': '2024-05-11T11:38:45+10:00'
+    'article:modified_time': '2024-05-17T18:51:19+10:00'
     'article:author': otherCode
     keywords: 'ddd, bounded context, bounded contexts, domain, domain model, domain model, model'
 date: '18-04-2020 15:34'
@@ -65,7 +65,7 @@ Perfect but how do we define our domain? The answer is easy, using the ubiquitou
 
 For example, suppose we are developing a book sales platform, when we talk to business (**sales**) they tell us that a _Customer_ can place _Purchase Orders_ that in turn contains certain _Products_. Another business member tells us that in **support** _Customers_ open _Tickets_ related to _Products_ they have purchased. We can see that in the sales department they talk about _Customers_, _Orders_ and _Products_, in turn, in the support department they also talk about _Customers_ and _Products_ in addition to _Tickets_ but they do not talk about _Orders_. As we continue with the conversation we see that there are more and more non-common terms between support people and sales people, that is, each one uses their own jargon or business language, or for us, their ubiquitous language. Now that we have identified each ubiquitous language we can define the domain of each one, for example:
 
-![bounded-context](bounded-context.png "bounded-context")
+![bounded-context](bounded-context.webp "bounded-context")
 
 We observe that both _Customers_ and _Products_ are repeated in both domains. Each one has a representation within each context. A _Customer_ for the Sales department will contain your personal data, purchase history, payment data, etc. However, for the Support department, payment data is not necessary, but they will need the purchase history in addition to the history of open tickets. The same entity has several representations depending on the point of view or the **context** in which it is found.
 
