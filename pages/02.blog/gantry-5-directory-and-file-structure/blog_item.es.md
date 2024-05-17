@@ -30,7 +30,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T20:49:37+10:00'
+    'article:modified_time': '2024-05-17T20:49:54+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, joomla, desarrollo de plantillas joomla, plantillas gantry 5, personalizacion gantry 5, renombrar plantilla gantry 5'
 image:
