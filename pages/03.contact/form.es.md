@@ -50,11 +50,10 @@ form:
         display: thankyou
         message: 'Gracias por ponerse en contacto!'
 routes: {  }
-slug: contacto
 aura:
     pagetype: website
 metadata:
-    'og:url': 'https://othercode.io/es/contact'
+    'og:url': 'https://othercode.io/es/contacto'
     'og:type': website
     'og:title': 'Contacto | otherCode'
     'og:author': otherCode
@@ -62,8 +61,8 @@ metadata:
     'twitter:title': 'Contacto | otherCode'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'article:published_time': '2024-05-08T17:41:25+10:00'
-    'article:modified_time': '2024-05-08T17:41:25+10:00'
+    'article:published_time': '2024-05-20T16:42:42+10:00'
+    'article:modified_time': '2024-05-20T16:42:42+10:00'
     'article:author': otherCode
 ---
 
