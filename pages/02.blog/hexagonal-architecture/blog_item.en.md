@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
-    'article:published_time': '2024-05-17T21:26:51+10:00'
-    'article:modified_time': '2024-05-17T21:26:51+10:00'
+    'article:published_time': '2024-05-17T21:27:08+10:00'
+    'article:modified_time': '2024-05-17T21:29:05+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -59,7 +59,7 @@ In this architecture, each component belongs to a specific layer and is connecte
 
 The system is organized into three distinct layers, each serving a specific purpose and encapsulating different aspects of the software.
 
-![Layers](hexagonal-architecture-layers.png)
+![Layers](hexagonal-architecture-layers.webp)
 
 **Domain Layer**
 
