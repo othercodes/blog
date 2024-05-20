@@ -37,7 +37,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/ubiquitous-language/featured.webp'
     'article:published_time': '2020-04-07T16:00:00+10:00'
-    'article:modified_time': '2024-05-17T19:41:19+10:00'
+    'article:modified_time': '2024-05-20T13:25:14+10:00'
     'article:author': otherCode
     keywords: 'ddd, lenguaje ubicuo, ubiquitous language, dominio, modelar dominio.'
 slug: lenguaje-ubicuo
@@ -48,7 +48,7 @@ aura:
     image: featured.webp
     description: 'El lenguaje ubicuo define todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos ayudará a modelar correctamente el dominio.'
 routes:
-    canonical: /blog/ubiquitous-language
+    canonical: /blog/lenguaje-ubicuo
 ---
 
 Una de las primeras cosas que se oye cuando se habla de DDD es el termino "_Lenguaje Ubicuo_". Es la base de todo en DDD, usando este lenguaje podremos definir todos los conceptos de nuestro negocio, nos ayudará a comunicarnos correctamente y ante todo, nos facilitará la tarea de modelar correctamente el dominio de nuestra solución.
