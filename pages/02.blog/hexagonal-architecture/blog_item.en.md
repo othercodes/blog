@@ -26,8 +26,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/hexagonal-architecture/featured.webp'
-    'article:published_time': '2024-05-20T13:11:24+10:00'
-    'article:modified_time': '2024-05-20T13:11:24+10:00'
+    'article:published_time': '2024-05-20T13:11:38+10:00'
+    'article:modified_time': '2024-05-20T13:11:38+10:00'
     'article:author': otherCode
     keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
 taxonomy:
@@ -37,7 +37,7 @@ taxonomy:
         - 'software architecture'
         - 'hexagonal architecture'
         - 'clean architecture'
-        - 'ports and adaprters'
+        - 'ports and adapters'
 aura:
     metadata:
         keywords: 'Hexagonal Architecture, Software Development, Flexible Design Pattern, System Scalability, Maintainability, Component Interaction, Layered Architecture, Software Solutions, Modern Architecture, Dependency Rule'
