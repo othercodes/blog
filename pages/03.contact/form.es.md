@@ -49,8 +49,21 @@ form:
             body: '{% include ''forms/data.html.twig'' %}'
         display: thankyou
         message: 'Gracias por ponerse en contacto!'
-routes:
-    aliases:
-        - /contacto
+routes: {  }
+slug: contacto
+aura:
+    pagetype: website
+metadata:
+    'og:url': 'https://othercode.io/es/contact'
+    'og:type': website
+    'og:title': 'Contacto | otherCode'
+    'og:author': otherCode
+    'twitter:card': summary_large_image
+    'twitter:title': 'Contacto | otherCode'
+    'twitter:site': '@othercode'
+    'twitter:creator': '@othercode'
+    'article:published_time': '2024-05-08T17:41:25+10:00'
+    'article:modified_time': '2024-05-08T17:41:25+10:00'
+    'article:author': otherCode
 ---
 
