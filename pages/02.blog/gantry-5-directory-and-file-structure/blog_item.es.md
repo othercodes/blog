@@ -30,7 +30,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/gantry-5-directory-and-file-structure/featured.webp'
     'article:published_time': '2018-12-26T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T21:12:21+10:00'
+    'article:modified_time': '2024-05-17T21:12:55+10:00'
     'article:author': otherCode
     keywords: 'gantry 5, gantry5, plantillas, joomla, desarrollo de plantillas joomla, plantillas gantry 5, personalizacion gantry 5, renombrar plantilla gantry 5'
 image:
@@ -47,6 +47,8 @@ aura:
     pagetype: article
     description: 'En este articulo conoceremos la estructura de ficheros de nuestra plantilla y prenderemos para que sirven cada uno de los diferentes archivos de configuración.'
     image: featured.webp
+routes:
+    canonical: /blog/gantry-5-estructura-de-directorios-y-archivos
 ---
 
 En el artículo anterior [Introducción a Gantry 5: Instalación y Configuración](/blog/introduction-to-gantry-5-installation-and-configuration) vimos como instalar y configurar Gantry de una manera muy básica, además conocimos los conceptos básicos de este framework de desarrollo de plantillas así como su zona de administración.
