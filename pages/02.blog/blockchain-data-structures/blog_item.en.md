@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-17T18:49:31+10:00'
+    'article:modified_time': '2024-05-17T18:49:51+10:00'
     'article:author': otherCode
     keywords: 'blockchain, data structures, blockchain php'
 twitterenable: true
@@ -55,7 +55,6 @@ twittercardoptions: summary
 articleenabled: false
 facebookenable: true
 date: '29-03-2020 00:00'
-slug: estructura-de-datos-blockchain
 aura:
     metadata:
         keywords: 'blockchain, data structures, blockchain php'
