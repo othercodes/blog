@@ -47,7 +47,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/blockchain-data-structures/featured.webp'
     'article:published_time': '2020-03-29T00:00:00+10:00'
-    'article:modified_time': '2024-05-20T10:49:07+10:00'
+    'article:modified_time': '2024-05-20T11:09:07+10:00'
     'article:author': otherCode
     keywords: 'cadena de bloques, estructura de datos, cadena de bloques php'
 twitterenable: true
@@ -62,7 +62,8 @@ aura:
     pagetype: article
     description: 'Análisis sobre la blockchain o cadena de bloques como estructura de datos, características y aplicaciones.'
     image: featured.webp
-routes: {  }
+routes:
+    canonical: /es/blog/estructura-de-datos-blockchain
 ---
 
 Cuando escuchamos la palabra _blockchain_, automáticamente pensamos en Bitcoin o en Cryptomonedas, sin embargo _blockchain_ o cadena de bloques es, ni mas ni menos, un tipo de **estructura de datos**.
