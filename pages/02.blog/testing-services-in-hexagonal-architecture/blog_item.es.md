@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T11:09:15+10:00'
+    'article:modified_time': '2024-05-23T11:10:03+10:00'
     'article:author': otherCode
     keywords: 'pruebas de servicios en arquitectura hexagonal, pruebas de servicios, arquitectura hexagonal, contratos de interfaz, simulación de interfaz, desarrollo de software, pruebas unitarias, simulación de repositorio, simulación de comportamiento'
 date: '23-05-2024 10:55'
@@ -47,7 +47,7 @@ slug: testeando-servicios-en-arquitectura-hexagonal
 
 En la arquitectura de software, asegurar una comunicación efectiva entre los diferentes componentes de un sistema es vital. Una técnica efectiva para verificar estas conexiones es mediante la creación de mocks de interfaces. Esto implica crear varias implementaciones de las interfaces para imitar el comportamiento de los diferentes componentes. Al usar estos mocks, podemos probar los servicios de manera independiente, asegurándonos de que los mensajes que envían y reciben se adhieran a un estándar predefinido, comúnmente conocido como "contrato". Este enfoque nos permite validar las interacciones y la funcionalidad de cada servicio sin necesidad de las implementaciones o infraestructuras reales.
 
-=== 
+===
 
 En la [Arquitectura Hexagonal](/blog/arquitectura-hexagonal), seguimos la práctica de crear una interfaz o contrato distinto para cada servicio que pueda tener una o más implementaciones. Estas implementaciones se asignan luego a diferentes capas. Por ejemplo, consideremos un contrato `UserRepository` que puede tener múltiples implementaciones como `SQLiteUserRepository`, `PostGreSQLUserRepository` o `JSONFSUserRepository`, dependiendo de las necesidades de escalabilidad de nuestro sistema. La interfaz o contrato pertenece a la capa de dominio o aplicación, mientras que las implementaciones reales residen en la capa de infraestructura.
 
