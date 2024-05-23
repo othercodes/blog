@@ -5,20 +5,26 @@ aura:
     description: 'Optimize your service testing in Hexagonal Architecture by leveraging interface mocking and contract validation. Learn how to streamline testing processes without intricate infrastructure setups.'
     metadata:
         keywords: 'testing services in hexagonal architecture, service testing, hexagonal architecture, interface contracts, interface mocking, software development, unit testing, repository mocking, behavioral simulation'
+    image: featured.webp
 metadata:
     description: 'Optimize your service testing in Hexagonal Architecture by leveraging interface mocking and contract validation. Learn how to streamline testing processes without intricate infrastructure setups.'
     'og:url': 'https://othercode.io/blog/testing-services-in-hexagonal-architecture'
     'og:type': article
     'og:title': 'Testing Services in Hexagonal Architecture | otherCode'
     'og:description': 'Optimize your service testing in Hexagonal Architecture by leveraging interface mocking and contract validation. Learn how to streamline testing processes without intricate infrastructure setups.'
+    'og:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
+    'og:image:type': image/webp
+    'og:image:width': 900
+    'og:image:height': 300
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Testing Services in Hexagonal Architecture | otherCode'
     'twitter:description': 'Optimize your service testing in Hexagonal Architecture by leveraging interface mocking and contract validation. Learn how to streamline testing processes without intricate infrastructure setups.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T10:59:07+10:00'
+    'article:modified_time': '2024-05-23T11:00:50+10:00'
     'article:author': otherCode
     keywords: 'testing services in hexagonal architecture, service testing, hexagonal architecture, interface contracts, interface mocking, software development, unit testing, repository mocking, behavioral simulation'
 published: false
