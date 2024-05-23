@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T11:07:06+10:00'
+    'article:modified_time': '2024-05-23T11:09:15+10:00'
     'article:author': otherCode
     keywords: 'pruebas de servicios en arquitectura hexagonal, pruebas de servicios, arquitectura hexagonal, contratos de interfaz, simulación de interfaz, desarrollo de software, pruebas unitarias, simulación de repositorio, simulación de comportamiento'
 date: '23-05-2024 10:55'
@@ -35,7 +35,7 @@ taxonomy:
         - 'arquitectura de software'
         - php
         - 'arquitectura hexagonal'
-        - 'prubas unitarias'
+        - 'pruebas unitarias'
 media_order: featured.webp
 image:
     summary:
