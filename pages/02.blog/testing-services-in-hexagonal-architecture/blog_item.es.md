@@ -8,7 +8,7 @@ aura:
     image: featured.webp
 metadata:
     description: 'Optimiza la prueba de tus servicios en la Arquitectura Hexagonal utilizando el mock de interfaces y la validación de contratos. Aprende cómo simplificar los procesos de prueba sin configuraciones de infraestructura complejas.'
-    'og:url': 'https://othercode.io/es/blog/testing-services-in-hexagonal-architecture'
+    'og:url': 'https://othercode.io/es/blog/testeando-servicios-en-arquitectura-hexagonal'
     'og:type': article
     'og:title': 'Testeando Servicios en Arquitectura Hexagonal | otherCode'
     'og:description': 'Optimiza la prueba de tus servicios en la Arquitectura Hexagonal utilizando el mock de interfaces y la validación de contratos. Aprende cómo simplificar los procesos de prueba sin configuraciones de infraestructura complejas.'
@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T11:03:31+10:00'
+    'article:modified_time': '2024-05-23T11:07:06+10:00'
     'article:author': otherCode
     keywords: 'pruebas de servicios en arquitectura hexagonal, pruebas de servicios, arquitectura hexagonal, contratos de interfaz, simulación de interfaz, desarrollo de software, pruebas unitarias, simulación de repositorio, simulación de comportamiento'
 date: '23-05-2024 10:55'
@@ -32,10 +32,10 @@ taxonomy:
     category:
         - blog
     tag:
-        - php
         - 'arquitectura de software'
-        - 'prubas unitarias'
+        - php
         - 'arquitectura hexagonal'
+        - 'prubas unitarias'
 media_order: featured.webp
 image:
     summary:
@@ -49,11 +49,11 @@ En la arquitectura de software, asegurar una comunicación efectiva entre los di
 
 === 
 
-En la [[Arquitectura Hexagonal]], seguimos la práctica de crear una interfaz o contrato distinto para cada servicio que pueda tener una o más implementaciones. Estas implementaciones se asignan luego a diferentes capas. Por ejemplo, consideremos un contrato `UserRepository` que puede tener múltiples implementaciones como `SQLiteUserRepository`, `PostGreSQLUserRepository` o `JSONFSUserRepository`, dependiendo de las necesidades de escalabilidad de nuestro sistema. La interfaz o contrato pertenece a la capa de dominio o aplicación, mientras que las implementaciones reales residen en la capa de infraestructura.
+En la [Arquitectura Hexagonal](/blog/arquitectura-hexagonal), seguimos la práctica de crear una interfaz o contrato distinto para cada servicio que pueda tener una o más implementaciones. Estas implementaciones se asignan luego a diferentes capas. Por ejemplo, consideremos un contrato `UserRepository` que puede tener múltiples implementaciones como `SQLiteUserRepository`, `PostGreSQLUserRepository` o `JSONFSUserRepository`, dependiendo de las necesidades de escalabilidad de nuestro sistema. La interfaz o contrato pertenece a la capa de dominio o aplicación, mientras que las implementaciones reales residen en la capa de infraestructura.
 
 Al emplear mocks de interfaces, simplificamos el proceso de prueba de las capas de dominio y aplicación sin la complejidad de configurar un entorno de infraestructura real.
 
-Supongamos que tenemos el siguiente servicio de aplicación del artículo anterior sobre [Arquitectura Hexagonal]:
+Supongamos que tenemos el siguiente servicio de aplicación del artículo anterior sobre [Arquitectura Hexagonal](/blog/arquitectura-hexagonal):
 
 ```php
 final readonly class UserFinder  
