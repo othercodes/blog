@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T11:00:50+10:00'
+    'article:modified_time': '2024-05-23T11:01:13+10:00'
     'article:author': otherCode
     keywords: 'testing services in hexagonal architecture, service testing, hexagonal architecture, interface contracts, interface mocking, software development, unit testing, repository mocking, behavioral simulation'
 published: false
@@ -43,6 +43,8 @@ image:
         enabled: '1'
     text:
         enabled: '1'
+access:
+    admin.login: true
 ---
 
 In software architecture, ensuring effective communication between different components of a system is vital. One effective technique for verifying these connections is through interface mocking. This involves creating mock implementations of interfaces to simulate the behavior of different components. By using these mocks, we can test the services independently, ensuring that the messages they send and receive adhere to a predefined standard, commonly referred to as a "contract". This approach allows us to validate the interactions and functionality of each service without needing the actual implementations or infrastructure.
