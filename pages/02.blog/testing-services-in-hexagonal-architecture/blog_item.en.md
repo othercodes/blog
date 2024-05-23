@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/testing-services-in-hexagonal-architecture/featured.webp'
     'article:published_time': '2024-05-23T10:55:00+10:00'
-    'article:modified_time': '2024-05-23T11:06:24+10:00'
+    'article:modified_time': '2024-05-23T11:16:00+10:00'
     'article:author': otherCode
     keywords: 'testing services in hexagonal architecture, service testing, hexagonal architecture, interface contracts, interface mocking, software development, unit testing, repository mocking, behavioral simulation'
 date: '23-05-2024 10:55'
@@ -224,6 +224,8 @@ In the code above, we did the following:
 4. Ensured the returned `User` has a valid `int` ID.
 5. Instantiated the `UserCreator`.
 6. Executed the `save` method and asserted the response. Since we are testing the successful scenario, the returned value must be an instance of `User` with a valid `int` ID.
+
+Check the code example in the repository [Hexagonal Architecture Example in PHP](https://github.com/othercodes/hexagonal-architecture-example-in-php).
 
 ## Conclusion
 
