@@ -17,8 +17,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
-    'article:published_time': '2024-05-30T15:53:48+10:00'
-    'article:modified_time': '2024-05-30T15:53:48+10:00'
+    'article:published_time': '2024-05-30T16:00:00+10:00'
+    'article:modified_time': '2024-05-30T15:55:59+10:00'
     'article:author': otherCode
 published: false
 media_order: 'featured.webp,contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp'
@@ -27,5 +27,6 @@ image:
         enabled: '1'
     text:
         enabled: '1'
+date: '30-05-2024 16:00'
 ---
 
