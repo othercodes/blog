@@ -1,19 +1,30 @@
 ---
 title: 'Pruebas de Contrato para Servicios de Infraestructura Confiables'
 aura:
-    pagetype: website
+    pagetype: article
+    image: featured.webp
 metadata:
     'og:url': 'https://othercode.io/es/blog/contract-testing-for-reliable-infrastructure-services'
-    'og:type': website
+    'og:type': article
     'og:title': 'Pruebas de Contrato para Servicios de Infraestructura Confiables | otherCode'
+    'og:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
+    'og:image:type': image/webp
+    'og:image:width': 900
+    'og:image:height': 300
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Pruebas de Contrato para Servicios de Infraestructura Confiables | otherCode'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'article:published_time': '2024-05-30T15:50:10+10:00'
-    'article:modified_time': '2024-05-30T15:52:57+10:00'
+    'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
+    'article:published_time': '2024-05-30T15:53:07+10:00'
+    'article:modified_time': '2024-05-30T15:54:13+10:00'
     'article:author': otherCode
 published: false
+image:
+    summary:
+        enabled: '1'
+    text:
+        enabled: '1'
 ---
 
