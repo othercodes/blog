@@ -17,8 +17,8 @@ metadata:
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
-    'article:published_time': '2024-05-30T15:53:07+10:00'
-    'article:modified_time': '2024-05-30T15:54:13+10:00'
+    'article:published_time': '2024-05-30T15:54:29+10:00'
+    'article:modified_time': '2024-05-30T15:54:29+10:00'
     'article:author': otherCode
 published: false
 image:
@@ -26,5 +26,8 @@ image:
         enabled: '1'
     text:
         enabled: '1'
+slug: pruebas-de-contrato-para-servicios-de-infraestructura-confiables
+routes:
+    canonical: /blog/pruebas-de-contrato-para-servicios-de-infraestructura-confiables
 ---
 
