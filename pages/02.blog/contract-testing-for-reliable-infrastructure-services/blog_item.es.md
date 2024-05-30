@@ -11,8 +11,9 @@ metadata:
     'twitter:title': 'Pruebas de Contrato para Servicios de Infraestructura Confiables | otherCode'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'article:published_time': '2024-05-30T15:49:47+10:00'
-    'article:modified_time': '2024-05-30T15:49:47+10:00'
+    'article:published_time': '2024-05-30T15:50:10+10:00'
+    'article:modified_time': '2024-05-30T15:52:57+10:00'
     'article:author': otherCode
+published: false
 ---
 
