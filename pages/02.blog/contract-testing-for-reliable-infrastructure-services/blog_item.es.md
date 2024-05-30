@@ -24,10 +24,9 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T16:06:16+10:00'
+    'article:modified_time': '2024-05-30T18:17:28+10:00'
     'article:author': otherCode
     keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
-published: false
 image:
     summary:
         enabled: '1'
