@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T16:09:33+10:00'
+    'article:modified_time': '2024-05-30T18:17:39+10:00'
     'article:author': otherCode
     keywords: 'contract testing, infrastructure services, reliable software, repositories, cache systems, software testing, integration testing, hexagonal architecture, service contracts, software development, php, pestphp'
 media_order: 'featured.webp,contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp'
@@ -252,4 +252,4 @@ As we can see, the test cases are now executed for both implementations. This el
 
 In conclusion, contract testing is an essential practice for ensuring the reliability of infrastructure services. By defining and adhering to clear contracts, we can verify that different implementations, such as repositories or cache systems, behave consistently. This method streamlines the testing process and ensures comprehensive coverage of service interactions. By focusing on contracts, we ensure seamless integration and reliability across the entire system, making our infrastructure services more resilient and easier to manage.
 
-Featured image: [https://www.pexels.com/photo/crop-colleagues-shaking-hands-in-office-5673488/]
+Featured image: https://www.pexels.com/photo/crop-colleagues-shaking-hands-in-office-5673488/
