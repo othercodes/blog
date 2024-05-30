@@ -11,9 +11,10 @@ metadata:
     'twitter:title': 'Contract Testing for Reliable Infrastructure Services | otherCode'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
-    'article:published_time': '2024-05-30T15:49:40+10:00'
-    'article:modified_time': '2024-05-30T15:50:10+10:00'
+    'article:published_time': '2024-05-30T15:52:57+10:00'
+    'article:modified_time': '2024-05-30T15:53:44+10:00'
     'article:author': otherCode
 published: false
+media_order: 'contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp,featured.webp'
 ---
 
