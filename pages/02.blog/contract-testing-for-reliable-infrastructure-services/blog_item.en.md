@@ -3,10 +3,15 @@ title: 'Contract Testing for Reliable Infrastructure Services'
 aura:
     pagetype: article
     image: featured.webp
+    description: 'Learn how contract testing ensures the reliability of infrastructure services like repositories and caches. This guide helps programmers maintain consistent and robust service interactions without complex setups.'
+    metadata:
+        keywords: 'contract testing, infrastructure services, reliable software, repositories, cache systems, software testing, integration testing, hexagonal architecture, service contracts, software development, php, pestphp'
 metadata:
+    description: 'Learn how contract testing ensures the reliability of infrastructure services like repositories and caches. This guide helps programmers maintain consistent and robust service interactions without complex setups.'
     'og:url': 'https://othercode.io/blog/contract-testing-for-reliable-infrastructure-services'
     'og:type': article
     'og:title': 'Contract Testing for Reliable Infrastructure Services | otherCode'
+    'og:description': 'Learn how contract testing ensures the reliability of infrastructure services like repositories and caches. This guide helps programmers maintain consistent and robust service interactions without complex setups.'
     'og:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'og:image:type': image/webp
     'og:image:width': 900
@@ -14,12 +19,14 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Contract Testing for Reliable Infrastructure Services | otherCode'
+    'twitter:description': 'Learn how contract testing ensures the reliability of infrastructure services like repositories and caches. This guide helps programmers maintain consistent and robust service interactions without complex setups.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T15:56:13+10:00'
+    'article:modified_time': '2024-05-30T16:07:15+10:00'
     'article:author': otherCode
+    keywords: 'contract testing, infrastructure services, reliable software, repositories, cache systems, software testing, integration testing, hexagonal architecture, service contracts, software development, php, pestphp'
 published: false
 media_order: 'featured.webp,contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp'
 image:
@@ -33,9 +40,9 @@ taxonomy:
         - blog
     tag:
         - 'software architecture'
+        - php
         - 'integration test'
         - 'contract test'
-        - php
         - pestphp
 ---
 
