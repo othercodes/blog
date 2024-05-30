@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T18:38:55+10:00'
+    'article:modified_time': '2024-05-30T18:50:21+10:00'
     'article:author': otherCode
     keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 image:
@@ -227,6 +227,7 @@ describe('UserRepository', function () {
 ```
 
 Ejecutamos las pruebas.
+
 ![contract-testing-doctrine-user-repository](contract-testing-doctrine-user-repository.webp "contract-testing-doctrine-user-repository")
 
 Podemos ver que todas las pruebas pasan con éxito. Ahora, agreguemos una segunda implementación de nuestro `UserRepository`. En este caso, crearemos una implementación simple que utiliza archivos JSON para almacenar los usuarios. Esto nos permitirá probar nuestro contrato más a fondo al garantizar que diferentes mecanismos de almacenamiento puedan integrarse fácilmente manteniendo un comportamiento consistente. Puedes revisar el código [aquí](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/src/UserManagement/Infrastructure/Persistence/JsonFileUserRepository.php). 
@@ -245,6 +246,7 @@ describe('UserRepository', function () {
 ```
 
 Volvámoslas a ejecutar y veamos si las nuevas integraciones funcionan correctamente:
+
 ![contract-testing-with-json-user-repository](contract-testing-with-json-user-repository.webp "contract-testing-with-json-user-repository")
 
 Como podemos ver, ahora se ejecutan los casos de prueba para ambas implementaciones. Esto elimina la necesidad de duplicar los casos de prueba para cada implementación. Como se mencionó anteriormente, cada nueva implementación debe pasar los casos de prueba definidos, ya que están diseñados en función del contrato, no de la implementación específica. De esta manera, estamos probando efectivamente el contrato en sí, asegurando que cualquier implementación que cumpla con el contrato se comporte según lo esperado. Este enfoque mantiene la consistencia y confiabilidad en diferentes implementaciones, lo que hace que nuestro proceso de prueba sea más eficiente y sólido.
