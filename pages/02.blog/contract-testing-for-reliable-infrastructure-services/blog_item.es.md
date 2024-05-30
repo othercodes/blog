@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T18:50:21+10:00'
+    'article:modified_time': '2024-05-30T20:14:40+10:00'
     'article:author': otherCode
     keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 image:
@@ -196,7 +196,7 @@ Como mencionamos anteriormente, hemos utilizado algunas funciones auxiliares par
 - `makeRepository`: crea un nuevo repositorio basado en el tipo solicitado.
 - `persistenceClean`: limpia la capa de persistencia.
 
-Lo clave es que todos estos métodos aceptan el tipo de repositorio que estás utilizando, por lo que una única función puede interactuar con diferentes capas de persistencia dependiendo del tipo requerido. Puedes consultar la implementación de estos ayudantes [aquí](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/tests/TestCase.php#L27).
+Lo clave es que todos estos métodos aceptan el tipo de repositorio que estás utilizando, por lo que una única función puede interactuar con diferentes capas de persistencia dependiendo del tipo requerido. Puedes consultar la implementación de estos ayudantes [aquí](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/tests/TestCase.php#L27 "TestCase").
 
 ## Hooks
 
@@ -230,7 +230,7 @@ Ejecutamos las pruebas.
 
 ![contract-testing-doctrine-user-repository](contract-testing-doctrine-user-repository.webp "contract-testing-doctrine-user-repository")
 
-Podemos ver que todas las pruebas pasan con éxito. Ahora, agreguemos una segunda implementación de nuestro `UserRepository`. En este caso, crearemos una implementación simple que utiliza archivos JSON para almacenar los usuarios. Esto nos permitirá probar nuestro contrato más a fondo al garantizar que diferentes mecanismos de almacenamiento puedan integrarse fácilmente manteniendo un comportamiento consistente. Puedes revisar el código [aquí](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/src/UserManagement/Infrastructure/Persistence/JsonFileUserRepository.php). 
+Podemos ver que todas las pruebas pasan con éxito. Ahora, agreguemos una segunda implementación de nuestro `UserRepository`. En este caso, crearemos una implementación simple que utiliza archivos JSON para almacenar los usuarios. Esto nos permitirá probar nuestro contrato más a fondo al garantizar que diferentes mecanismos de almacenamiento puedan integrarse fácilmente manteniendo un comportamiento consistente. Puedes revisar el código [aquí](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/src/UserManagement/Infrastructure/Persistence/JsonFileUserRepository.php "JsonFileUserRepository"). 
 
 Ahora agreguemos esta implementación a las pruebas de integración.
 
