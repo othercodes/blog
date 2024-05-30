@@ -24,10 +24,10 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T16:07:15+10:00'
+    'article:modified_time': '2024-05-30T16:07:49+10:00'
     'article:author': otherCode
     keywords: 'contract testing, infrastructure services, reliable software, repositories, cache systems, software testing, integration testing, hexagonal architecture, service contracts, software development, php, pestphp'
-published: false
+published: true
 media_order: 'featured.webp,contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp'
 image:
     summary:
