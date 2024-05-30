@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T18:32:35+10:00'
+    'article:modified_time': '2024-05-30T18:32:51+10:00'
     'article:author': otherCode
     keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 image:
@@ -253,5 +253,3 @@ Como podemos ver, ahora se ejecutan los casos de prueba para ambas implementacio
 ## Conclusión
 
 En conclusión, las pruebas de contrato son una práctica esencial para garantizar la confiabilidad de los servicios de infraestructura. Al definir y adherirse a contratos claros, podemos verificar que diferentes implementaciones, como repositorios o sistemas de almacenamiento en caché, se comporten de manera consistente. Este método agiliza el proceso de prueba y asegura una cobertura integral de las interacciones de los servicios. Al centrarnos en los contratos, garantizamos una integración perfecta y confiabilidad en todo el sistema, lo que hace que nuestros servicios de infraestructura sean más resilientes y fáciles de gestionar.
-
-Imagen destacada: https://www.pexels.com/photo/crop-colleagues-shaking-hands-in-office-5673488/
