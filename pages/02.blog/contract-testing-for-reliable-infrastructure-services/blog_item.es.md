@@ -3,10 +3,15 @@ title: 'Pruebas de Contrato para Servicios de Infraestructura Confiables'
 aura:
     pagetype: article
     image: featured.webp
+    description: 'Descubre cómo las pruebas de contrato garantizan la fiabilidad de servicios de infraestructura como repositorios y cachés. Esta guía ayuda a los programadores a mantener interacciones de servicios consistentes y robustas sin configuraciones complejas.'
+    metadata:
+        keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 metadata:
+    description: 'Descubre cómo las pruebas de contrato garantizan la fiabilidad de servicios de infraestructura como repositorios y cachés. Esta guía ayuda a los programadores a mantener interacciones de servicios consistentes y robustas sin configuraciones complejas.'
     'og:url': 'https://othercode.io/es/blog/pruebas-de-contrato-para-servicios-de-infraestructura-confiables'
     'og:type': article
     'og:title': 'Pruebas de Contrato para Servicios de Infraestructura Confiables | otherCode'
+    'og:description': 'Descubre cómo las pruebas de contrato garantizan la fiabilidad de servicios de infraestructura como repositorios y cachés. Esta guía ayuda a los programadores a mantener interacciones de servicios consistentes y robustas sin configuraciones complejas.'
     'og:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'og:image:type': image/webp
     'og:image:width': 900
@@ -14,12 +19,14 @@ metadata:
     'og:author': otherCode
     'twitter:card': summary_large_image
     'twitter:title': 'Pruebas de Contrato para Servicios de Infraestructura Confiables | otherCode'
+    'twitter:description': 'Descubre cómo las pruebas de contrato garantizan la fiabilidad de servicios de infraestructura como repositorios y cachés. Esta guía ayuda a los programadores a mantener interacciones de servicios consistentes y robustas sin configuraciones complejas.'
     'twitter:site': '@othercode'
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T16:03:55+10:00'
+    'article:modified_time': '2024-05-30T16:06:16+10:00'
     'article:author': otherCode
+    keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 published: false
 image:
     summary:
@@ -35,9 +42,9 @@ taxonomy:
         - blog
     tag:
         - 'arquitectura de software'
+        - php
         - 'pruebas de integracion'
         - 'test de contratos'
-        - php
         - pestphp
 ---
 
