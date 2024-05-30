@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T18:32:51+10:00'
+    'article:modified_time': '2024-05-30T18:35:59+10:00'
     'article:author': otherCode
     keywords: 'pruebas de contrato, servicios de infraestructura, software confiable, repositorios, sistemas de caché, pruebas de software, pruebas de integración, arquitectura hexagonal, contratos de servicio, desarrollo de software, php, pestphp'
 image:
@@ -45,6 +45,7 @@ taxonomy:
         - 'pruebas de integracion'
         - 'test de contratos'
         - pestphp
+media_order: 'contract-testing-with-json-user-repository.webp,featured.webp,contract-testing-doctrine-user-repository.webp'
 ---
 
 Garantizar que los servicios de infraestructura, como los Repositorios o las implementaciones de Cache, sean confiables es crucial para construir software robusto. En nuestro post anterior, [Pruebas de Servicios en Arquitectura Hexagonal](/es/blog/testeando-servicios-en-arquitectura-hexagonal), hablamos sobre pruebas unitarias. Ahora, profundicemos en las pruebas de contrato para verificar cómo los servicios de infraestructura funcionan con servicios de otras capas. Al asegurarnos de que diferentes implementaciones se adhieran consistentemente a sus contratos, podemos mantener el sistema confiable sin necesidad de configuraciones complicadas. Este método ayuda a asegurar que los servicios de infraestructura sean fiables y que todo se integre sin problemas en todo el sistema.
