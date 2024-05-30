@@ -24,7 +24,7 @@ metadata:
     'twitter:creator': '@othercode'
     'twitter:image': 'https://othercode.io/user/pages/02.blog/contract-testing-for-reliable-infrastructure-services/featured.webp'
     'article:published_time': '2024-05-30T16:00:00+10:00'
-    'article:modified_time': '2024-05-30T18:35:37+10:00'
+    'article:modified_time': '2024-05-30T18:51:54+10:00'
     'article:author': otherCode
     keywords: 'contract testing, infrastructure services, reliable software, repositories, cache systems, software testing, integration testing, hexagonal architecture, service contracts, software development, php, pestphp'
 media_order: 'featured.webp,contract-testing-with-json-user-repository.webp,contract-testing-doctrine-user-repository.webp'
@@ -193,7 +193,7 @@ As we mention before we have used some helpers functions to help us on the testi
 - `makeRepository`: creates a new repository based on the type request.
 - `persistenceClean`: cleans the persistence layer.
 
-The key in that all these methods accepts the type of repository you are using, so the single function can interact with different persistence layers depending on the type required. You can check the implementation of this helpers [here](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/tests/TestCase.php#L27). 
+The key in that all these methods accepts the type of repository you are using, so the single function can interact with different persistence layers depending on the type required. You can check the implementation of this helpers [here](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/tests/TestCase.php#L27 "TestCase"). 
 
 ## Hooks
 
@@ -211,7 +211,7 @@ Unfortunately, we can't do that, so we execute this helpers in the actual test c
 
 ## Test Case Execution
 
-Now that we have all the test cases ready, we need to inject the implementation types into each test. For this, we will utilize the [dataset](https://pestphp.com/docs/datasets) feature.
+Now that we have all the test cases ready, we need to inject the implementation types into each test. For this, we will utilize the [dataset](https://pestphp.com/docs/datasets "Datasets") feature.
 
 ```php
 describe('UserRepository', function () {
@@ -227,7 +227,7 @@ Let's run the test.
 
 ![contract-testing-doctrine-user-repository](contract-testing-doctrine-user-repository.webp "contract-testing-doctrine-user-repository")
 
-We can see that all the tests pass successfully. Now, let's add a second implementation of our `UserRepository`. In this case, we will create a simple implementation that uses JSON files to store the users. This will allow us to test our contract further by ensuring that different storage mechanisms can be seamlessly integrated while maintaining consistent behavior, you can check the code [here](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/src/UserManagement/Infrastructure/Persistence/JsonFileUserRepository.php).
+We can see that all the tests pass successfully. Now, let's add a second implementation of our `UserRepository`. In this case, we will create a simple implementation that uses JSON files to store the users. This will allow us to test our contract further by ensuring that different storage mechanisms can be seamlessly integrated while maintaining consistent behavior, you can check the code [here](https://github.com/othercodes/hexagonal-architecture-example-in-php/blob/master/src/UserManagement/Infrastructure/Persistence/JsonFileUserRepository.php "JsonFileUserRepository").
 
 Now let's add this implementation to the integration tests.
 
